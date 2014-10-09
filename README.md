@@ -1,4 +1,4 @@
-# AFDAS: Les journalistes détenteurs de la carte de journaliste professionnel en 2013
+# AFDAS Interactive
 ## Installation
 ### Software dependencies
 To make this project up and running, you need:

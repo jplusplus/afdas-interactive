@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Bitter:400,700,400italic|Fira+Sans:400,400italic,700&subset=latin,latin-ext);
 @import "./vendor/bootstrap/reset.less";
 @import "./vendor/bootstrap/variables.less";
 @import "./vendor/bootstrap/mixins.less";
@@ -19,8 +20,8 @@ body {
     margin:0;
     padding:0;
     overflow:hidden;
-    font: 14px arial, "Lucida Grande", Helvetica, sans-serif;
-    background:#f7f7f7;
+    font: @baseFontSize @baseFontFamily;
+    background:@bodyBackground;
     color:#404040;
 
     .spot a, .spot {
@@ -29,6 +30,10 @@ body {
     }
     // no scale() available, we show the scrollbar
     .no-csstransforms & { overflow: auto; }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: @headingsFontFamily;
+    }
 }
 
 #old-browser {
