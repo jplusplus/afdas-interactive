@@ -76,6 +76,8 @@
     $uis =
       wdw               : $(window)
       body              : $("body")
+      nav               : $(".nav .steps")
+      navToggler        : $(".js-nav-toggler")
       steps             : $ui.find(".step")
       spots             : $ui.find(".spot")
       parallaxes        : $ui.find("[data-parallax]")
@@ -92,6 +94,7 @@
    * @return {Object} jQuest window ibject
   ###
   bindUI = ->
+    $uis.navToggler.on 'click', -> $uis.nav.toggleClass "hidden"
     $uis.steps.on "click",      ".spot", clickSpot
     $uis.steps.on "mouseenter", ".spot", enterSpot
     $uis.steps.on "mouseleave", ".spot", leaveSpot

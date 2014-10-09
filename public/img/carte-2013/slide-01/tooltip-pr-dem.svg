@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="149px" height="26px" viewBox="0 0 149 26" enable-background="new 0 0 149 26" xml:space="preserve">
+<symbol  id="premiere-demande-bubble" viewBox="-102.185 -13 148.411 26">
+	<polygon fill="#BDCC35" points="37.604,-4.158 34.031,0.653 37.604,5.463 46.227,0.653 	"/>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M32.648,12.5H-96.685c-2.75,0-5-2.25-5-5v-15c0-2.75,2.25-5,5-5H32.648c2.75,0,5,2.25,5,5v15
+				C37.648,10.25,35.398,12.5,32.648,12.5z"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#BDCC35" stroke-miterlimit="10" d="M32.648,12.5H-96.685c-2.75,0-5-2.25-5-5v-15c0-2.75,2.25-5,5-5
+				H32.648c2.75,0,5,2.25,5,5v15C37.648,10.25,35.398,12.5,32.648,12.5z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 -1 -94.8242 -4.7129)" fill="#BDCC35" font-family="'FiraSansOT-Bold'" font-size="13">Premières demandes</text>
+</symbol>
+<use xlink:href="#premiere-demande-bubble"  width="148.411" height="26" id="XMLID_3_" x="-102.185" y="-13" transform="matrix(1 0 0 -1 102.1846 13)" overflow="visible"/>
+</svg>

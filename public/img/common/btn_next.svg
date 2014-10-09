@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="80px" viewBox="0 0 40 80" enable-background="new 0 0 40 80" xml:space="preserve">
+<symbol  id="btn-prev-slide" viewBox="-15 -40 40 80">
+	<path fill="#45494D" d="M25,0c0-22.091-17.909-40-40-40v80C7.091,40,25,22.091,25,0z"/>
+	<g>
+		<path fill="#82D2C5" d="M8.453-10.517l-4.505-3.277L-5-2.73v6.077l8.948,10.447l4.505-3.275L1.762-0.204L8.453-10.517z"/>
+	</g>
+</symbol>
+<use xlink:href="#btn-prev-slide"  width="40" height="80" id="XMLID_1_" x="-15" y="-40" transform="matrix(-1 0 0 -1 25 40)" overflow="visible"/>
+</svg>

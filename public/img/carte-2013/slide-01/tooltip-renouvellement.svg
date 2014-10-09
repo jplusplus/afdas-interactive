@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="119px" height="26px" viewBox="0 0 119 26" enable-background="new 0 0 119 26" xml:space="preserve">
+<symbol  id="renouvellement-bubble" viewBox="-63.686 -13 118.411 26">
+	<polygon fill="#EBAF17" points="46.103,-4.158 42.53,0.653 46.103,5.463 54.726,0.653 	"/>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M41.147,12.5h-99.333c-2.75,0-5-2.25-5-5v-15c0-2.75,2.25-5,5-5h99.333c2.75,0,5,2.25,5,5v15
+				C46.147,10.25,43.897,12.5,41.147,12.5z"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#EBAF17" stroke-miterlimit="10" d="M41.147,12.5h-99.333c-2.75,0-5-2.25-5-5v-15c0-2.75,2.25-5,5-5
+				h99.333c2.75,0,5,2.25,5,5v15C46.147,10.25,43.897,12.5,41.147,12.5z"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 -1 -57.9604 -4.7129)" fill="#EBAF17" font-family="'FiraSansOT-Bold'" font-size="13">Renouvellement</text>
+	<g id="premiere-demande-bubble_1_">
+	</g>
+</symbol>
+<use xlink:href="#renouvellement-bubble"  width="118.411" height="26" id="XMLID_4_" x="-63.686" y="-13" transform="matrix(1 0 0 -1 63.6855 13)" overflow="visible"/>
+</svg>

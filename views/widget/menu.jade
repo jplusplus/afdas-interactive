@@ -1,22 +1,26 @@
 .nav
-    unless data["no-menu"]
-        ul.steps
-            li
-                a.to-step.to-home(href="#step=0", data-step=0)
-                    img(src=(data["picto-home"]) ? data["picto-home"] : "/img/common/bt-home.png", alt="home")
+    a.nav-toggler.js-nav-toggler
+        span.hide-text Menu
 
-            each step, stepKey in data.steps         
-                li(class=(step["no-index"] ? "hidden":""))
-                    a.to-step(href="#step="+stepKey, data-step=stepKey)
-                        span.wrapper=strip_tags(step["menu-name"] || step["name"])
-                        i.left10=stepKey
+    a.nav-analyse
+        span.hide-text Analyse de l'Observatoire
+
+    unless data["no-menu"]
+        .steps.hidden
+            a.pull-right.js-nav-toggler Fermer
+            h3 Choisissez<br /> un chapitre
+            ul.chapters
+                each step, stepKey in data.steps
+                    li(class=(step["no-index"] ? "hidden":""))
+                        a.to-step(href="#step="+stepKey, data-step=stepKey)
+                            span.wrapper=strip_tags(step["menu-name"] || step["name"])
 
     unless data["no-arrows"]
         ul.arrows
             li
                 a.previous(title="Précendent") &larr;
             li
-                a.next(title="Suivant") &rarr; 
+                a.next(title="Suivant") &rarr;
 
     //- !! Deactivated !!
     if data["tiny-scroll"]
@@ -26,5 +30,5 @@
                 a.next(title="Suivant") &rarr;
                 .tracker
             //- Empty elements
-            .shadow 
+            .shadow
             .triangle

@@ -45,8 +45,10 @@ block content
             class=stepClass(step),
             data-step=stepKey,
             data-page=page)
-            unless step["no-title"]
-                h2!=step.name
+            .step-heading
+                unless step["no-title"]
+                    h2!=step.name
+                    h3!=step["sub-title"]
             if step.picture
                 img(src=step.picture).step-background
             if step["hidden-content"]
