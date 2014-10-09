@@ -1,0 +1,228 @@
+#container {
+
+    overflow:hidden;
+
+    position:absolute;
+    top:0; left:0;
+    width:100%;
+    height:100%;
+    background-color:@bodyBackground;
+
+    visibility:visible;
+    .js-loading & { visibility:hidden; }
+
+    .step {
+        position:absolute;
+        top:0;
+        left:0;
+        width:@containerWidth;
+        height:@containerHeight;
+        overflow:hidden;
+
+
+        &.js-current {
+            overflow:visible;
+            visibility: visible;
+        }
+
+        // Disable next and previous on touch device
+        .no-touch {
+            &.js-current, &.js-next, &.js-previous {
+                visibility: visible;
+            }
+        }
+
+        .hidden-content {
+            display:none;
+        }
+
+        .step-heading {
+
+            position:absolute;
+            left:55px;
+            right: 300px;
+            top:45px;
+            z-index:@zIndexTitle;
+
+            h2 {
+                font-size: 32px;
+                font-weight: bold;
+                line-height: 36px;
+                margin: 0;
+                padding:0;
+
+                strong {
+                    color:@red;
+                }
+            }
+
+            h3 {
+                font-size:13px;
+                color:#72797f;
+                margin-top:5px;
+            }
+        }
+
+        .spot-background, .step-background {
+            min-width:none;
+            max-width:none;
+            min-height:none;
+            max-height:none;
+            position:relative;
+            z-index:@zIndexPicture;
+            &.spot-background {
+                z-index:@zIndexSpot;
+            }
+        }
+
+        .exemple & {
+            &:after {
+                content:"";
+                position: absolute;
+                top:50%;
+                right:0;
+                left:0;
+                border-top:10px dashed fade(@black, 60%);
+                z-index:@zIndexTail;
+            }
+        }
+
+        .spot {
+
+            position:absolute;
+            z-index:@zIndexSpot;
+            background:none;
+
+            & > .js-animation-wrapper {
+                background: 0 0 no-repeat;
+                background-size:100% auto;
+                width:100%;
+                height:100%;
+                position:relative;
+                &.hidden { display:none; }
+            }
+
+            &.js-active.v-sprite > .js-animation-wrapper {
+                background-position:left bottom;
+            }
+
+            &.js-active.h-sprite > .js-animation-wrapper {
+                background-position:right top;
+            }
+
+            &.focus {
+                &  > .js-animation-wrapper {
+                    .box-shadow(black 0 0 20px);
+                    .opacity(40);
+                }
+            }
+
+            &.pictos {
+                width:200px; /* IE8 FIX */
+            }
+
+            &.red > .js-animation-wrapper {
+                background-color:red;
+            }
+
+            &.green > .js-animation-wrapper {
+                background-color:green;
+            }
+
+            &.pink > .js-animation-wrapper {
+                background-color:pink;
+            }
+
+            &.yellow > .js-animation-wrapper {
+                background-color:yellow;
+            }
+
+
+            &.red.js-active,
+            &.green.js-active,
+            &.pink.js-active,
+            &.yellow.js-active {
+                &  > .js-animation-wrapper {
+                    .box-shadow(fade(black, 60) 0 0 20px);
+                }
+            }
+
+            &.fg {
+              z-index:@zIndexSpot + 5;
+            }
+
+            .ie &.ie-opacity .js-animation-wrapper {
+                background-color:#e2e6e7;
+                .opacity(100);
+                * {
+                    background-color:#e2e6e7;
+                    filter: inherit;
+                }
+            }
+
+
+            &.launcher {
+                background:url("/img/common/btn_lancez.png") no-repeat 0 0;
+                top:50%;
+                left:50%;
+                margin-left:-270px/2px;
+                margin-top:-275px/2px;
+
+                &:hover {
+                    background-position:0 -280px;
+                }
+            }
+
+            &.app-title {
+
+                color:#666666;
+
+                h3 {
+                    font-weight: 100;
+                    font-size: 32px;
+                    text-shadow: -1px 0 #FFF, 0 1px #FFF, 1px 0 #FFF, 0 -1px #FFF;
+                    margin:0;
+                }
+
+                h4 {
+                    font-weight: bold;
+                    font-size: 48px;
+                    line-height: 50px;
+                    text-shadow: -1px 0 #FFF, 0 1px #FFF, 1px 0 #FFF, 0 -1px #FFF
+                }
+                &.no-shadow {
+                    * {
+                        text-shadow: none;
+                    }
+                }
+
+            }
+
+            &.legend {
+                font-size: 14px;
+                font-weight: 100px;
+                line-height: 16px;
+                color: #808080;
+                width:auto;
+                display:table;
+                .js-animation-wrapper {
+                    padding-left:25px;
+                    display:table-cell;
+                    vertical-align:middle;
+                }
+            }
+
+            h3, h4 {
+                margin-top:0;
+                margin-bottom:0.2em;
+                font-weight:normal;
+            }
+
+            small {
+                color:#999;
+            }
+
+        }
+
+    }
+}

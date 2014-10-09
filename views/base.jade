@@ -29,9 +29,14 @@ html
 
 
     #overflow(data-navigation=data.navigation || "horizontal")
-        include widget/menu.jade
+        include widget/nav.jade
         #container
             block content
+        #analyse
+            .overlay.js-analyse-toggler
+            .dialog
+
+
 
     != js('global')
     if debugMode
