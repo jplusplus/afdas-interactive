@@ -22,7 +22,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-detail@2x.png",
                     "width": 230,
                     "height": 37,
-                    "class": "v-sprite js-active tab",
+                    "class": "v-sprite tab js-active",
                     "top": "22.7272%",
                     "left": "32.8125%",
                     "activable": true
@@ -43,7 +43,20 @@
                     "top": "35.303%",
                     "left": "13.4765%",
                     "resolve": ".tab:eq(1)",
-                    "entrance": "fadeIn"
+                    "entrance": "fadeIn",
+                    "series": [
+                    	{"x": 1, "y": 1 },
+                    	{"x": 2, "y": 2 },
+                    	{"x": 3, "y": 3 },
+                    	{"x": 4, "y": 4 }
+                    ],
+                    "series-options": {
+                    	"width": 19,
+                    	"height": 19,
+                    	"background": "/img/carte-2013/slide-01/sprite-dots.png",
+                    	"class": "h-sprite",
+                    	"tooltip": "A lot!"
+                    }
                 },
                 {
                     "background": "/img/carte-2013/slide-01/legend-tuto@2x.png",

@@ -1,0 +1,44 @@
+.tooltipster-light {
+	border-radius: 10px;
+	border: none;
+	background: @textColor;
+	border:0;
+	color: #fff;
+	margin-top:-20px;
+}
+
+.tooltipster-light .tooltipster-content {
+    font: 17px @baseFontFamily bold;
+	line-height: 16px;
+	padding: 5px 15px;
+
+	i {
+		font-weight: normal;
+		font-size:12px;
+		display: block;
+	}
+}
+
+.tooltipster-base.tooltipster-light .tooltipster-arrow.tooltipster-arrow-top {
+	span {
+		border:0 !important;
+		width: 3px;
+		height: 40px;
+		background: @textColor;
+		left:-4px;
+		top:100%;
+
+		bottom:0;
+		&:after {
+			content:"";
+			position:absolute;
+			left:50%;
+			bottom:-4px;
+			width:8px;
+			height:8px;
+			background: @textColor;
+			border-radius: 50%;
+			.translate(-50%, 0);
+		}
+	}
+}

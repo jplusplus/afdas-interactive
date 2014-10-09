@@ -95,10 +95,10 @@
 
             & > .js-animation-wrapper {
                 background: 0 0 no-repeat;
-                background-size:100% auto;
                 width:100%;
                 height:100%;
                 position:relative;
+                background-size:100% auto;
                 &.hidden { display:none; }
             }
 
@@ -107,7 +107,16 @@
             }
 
             &.js-active.h-sprite > .js-animation-wrapper {
+                background-size:auto 100%;
                 background-position:right top;
+            }
+
+            &.v-sprite > .js-animation-wrapper {
+                background-size:100% auto;
+            }
+
+            &.h-sprite > .js-animation-wrapper {
+                background-size:auto 100%;
             }
 
             &.focus {
