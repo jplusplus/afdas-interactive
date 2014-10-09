@@ -78,6 +78,8 @@
       body              : $("body")
       nav               : $(".nav .steps")
       navToggler        : $(".js-nav-toggler")
+      analyse           : $("#analyse")
+      analyseToggler    : $(".js-analyse-toggler")
       steps             : $ui.find(".step")
       spots             : $ui.find(".spot")
       parallaxes        : $ui.find("[data-parallax]")
@@ -95,6 +97,7 @@
   ###
   bindUI = ->
     $uis.navToggler.on 'click', -> $uis.nav.toggleClass "hidden"
+    $uis.analyseToggler.on 'click', -> $uis.analyse.toggleClass "hidden"
     $uis.steps.on "click",      ".spot", clickSpot
     $uis.steps.on "mouseenter", ".spot", enterSpot
     $uis.steps.on "mouseleave", ".spot", leaveSpot
