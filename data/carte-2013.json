@@ -13,7 +13,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-TJ@2x.png",
                     "width": 183,
                     "height": 37,
-                    "class": "v-sprite tab",
+                    "class": "v-sprite tab js-active",
                     "top": "22.7272%",
                     "left": "14.2578%",
                     "activable": true
@@ -22,7 +22,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-detail@2x.png",
                     "width": 230,
                     "height": 37,
-                    "class": "v-sprite tab js-active",
+                    "class": "v-sprite tab",
                     "top": "22.7272%",
                     "left": "32.8125%",
                     "activable": true
@@ -34,19 +34,71 @@
                     "top": "35.303%",
                     "left": "13.4765%",
                     "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn"
+                },
+                {
+                    "width": 709,
+                    "height": 358,
+                    "top": "35.1515%",
+                    "left": "14.9414%",
+                    "resolve": ".tab:eq(0)",
                     "entrance": "fadeIn",
                     "series": [
-                    	{"x": 1, "y": 1 },
-                    	{"x": 2, "y": 2 },
-                    	{"x": 3, "y": 3 },
-                    	{"x": 4, "y": 4 }
+                        {
+                            "x": 1,
+                            "y": 1,
+                            "left": "0%",
+                            "top": "100%",
+                            "origin": "center",
+                            "width": 19,
+                            "height": 19,
+                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                            "class": "h-sprite",
+                            "tooltip": "<i>2012</i> A lot!"
+                        },
+                        {
+                            "x": 2,
+                            "y": 2,
+                            "left": "33.333333333333336%",
+                            "top": "66.66666666666666%",
+                            "origin": "center",
+                            "width": 19,
+                            "height": 19,
+                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                            "class": "h-sprite",
+                            "tooltip": "<i>2012</i> A lot!"
+                        },
+                        {
+                            "x": 3,
+                            "y": 3,
+                            "left": "66.66666666666667%",
+                            "top": "33.33333333333333%",
+                            "origin": "center",
+                            "width": 19,
+                            "height": 19,
+                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                            "class": "h-sprite",
+                            "tooltip": "<i>2012</i> A lot!"
+                        },
+                        {
+                            "x": 4,
+                            "y": 4,
+                            "left": "100%",
+                            "top": "0%",
+                            "origin": "center",
+                            "width": 19,
+                            "height": 19,
+                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                            "class": "h-sprite",
+                            "tooltip": "<i>2012</i> A lot!"
+                        }
                     ],
                     "series-options": {
-                    	"width": 19,
-                    	"height": 19,
-                    	"background": "/img/carte-2013/slide-01/sprite-dots.png",
-                    	"class": "h-sprite",
-                    	"tooltip": "A lot!"
+                        "width": 19,
+                        "height": 19,
+                        "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                        "class": "h-sprite",
+                        "tooltip": "<i>2012</i> A lot!"
                     }
                 },
                 {
