@@ -13,7 +13,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-TJ@2x.png",
                     "width": 183,
                     "height": 37,
-                    "class": "v-sprite tab js-active",
+                    "class": "v-sprite tab",
                     "top": "22.7272%",
                     "left": "14.2578%",
                     "activable": true
@@ -22,7 +22,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-detail@2x.png",
                     "width": 230,
                     "height": 37,
-                    "class": "v-sprite tab",
+                    "class": "v-sprite tab js-active",
                     "top": "22.7272%",
                     "left": "32.8125%",
                     "activable": true
@@ -35,71 +35,6 @@
                     "left": "13.4765%",
                     "resolve": ".tab:eq(0)",
                     "entrance": "fadeIn"
-                },
-                {
-                    "width": 709,
-                    "height": 358,
-                    "top": "35.1515%",
-                    "left": "14.9414%",
-                    "resolve": ".tab:eq(0)",
-                    "entrance": "fadeIn",
-                    "series": [
-                        {
-                            "x": 1,
-                            "y": 1,
-                            "left": "0%",
-                            "top": "100%",
-                            "origin": "center",
-                            "width": 19,
-                            "height": 19,
-                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
-                            "class": "h-sprite",
-                            "tooltip": "<i>2012</i> A lot!"
-                        },
-                        {
-                            "x": 2,
-                            "y": 2,
-                            "left": "33.333333333333336%",
-                            "top": "66.66666666666666%",
-                            "origin": "center",
-                            "width": 19,
-                            "height": 19,
-                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
-                            "class": "h-sprite",
-                            "tooltip": "<i>2012</i> A lot!"
-                        },
-                        {
-                            "x": 3,
-                            "y": 3,
-                            "left": "66.66666666666667%",
-                            "top": "33.33333333333333%",
-                            "origin": "center",
-                            "width": 19,
-                            "height": 19,
-                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
-                            "class": "h-sprite",
-                            "tooltip": "<i>2012</i> A lot!"
-                        },
-                        {
-                            "x": 4,
-                            "y": 4,
-                            "left": "100%",
-                            "top": "0%",
-                            "origin": "center",
-                            "width": 19,
-                            "height": 19,
-                            "background": "/img/carte-2013/slide-01/sprite-dots.png",
-                            "class": "h-sprite",
-                            "tooltip": "<i>2012</i> A lot!"
-                        }
-                    ],
-                    "series-options": {
-                        "width": 19,
-                        "height": 19,
-                        "background": "/img/carte-2013/slide-01/sprite-dots.png",
-                        "class": "h-sprite",
-                        "tooltip": "<i>2012</i> A lot!"
-                    }
                 },
                 {
                     "background": "/img/carte-2013/slide-01/graph-on@2x.png",
@@ -116,6 +51,92 @@
                     "class": "fg",
                     "top": "30.4545%",
                     "left": "14.8437%"
+                },
+                {
+                    "width": 485,
+                    "height": 13,
+                    "top": "84.8484%",
+                    "left": "36.8164%",
+                    "resolve": ".tab:eq(1)",
+                    "entrance": "fadeIn",
+                    "series": [
+                        {
+                            "x": "2000",
+                            "y": "0.08",
+                            "tooltip": "<i>2000</i> 2 703"
+                        },
+                        {
+                            "x": "2001",
+                            "y": "0.09",
+                            "tooltip": "<i>2001</i> 3 200"
+                        },
+                        {
+                            "x": "2002",
+                            "y": "0.07",
+                            "tooltip": "<i>2002</i> 2 499"
+                        },
+                        {
+                            "x": "2003",
+                            "y": "0.06",
+                            "tooltip": "<i>2003</i> 2 232"
+                        },
+                        {
+                            "x": "2004",
+                            "y": "0.06",
+                            "tooltip": "<i>2004</i> 2 090"
+                        },
+                        {
+                            "x": "2005",
+                            "y": "0.06",
+                            "tooltip": "<i>2005</i> 2 055"
+                        },
+                        {
+                            "x": "2006",
+                            "y": "0.06",
+                            "tooltip": "<i>2006</i> 2 252"
+                        },
+                        {
+                            "x": "2007",
+                            "y": "0.06",
+                            "tooltip": "<i>2007</i> 2 229"
+                        },
+                        {
+                            "x": "2008",
+                            "y": "0.06",
+                            "tooltip": "<i>2008</i> 2 150"
+                        },
+                        {
+                            "x": "2009",
+                            "y": "0.06",
+                            "tooltip": "<i>2009</i> 2 107"
+                        },
+                        {
+                            "x": "2010",
+                            "y": "0.05",
+                            "tooltip": "<i>2010</i> 1 861"
+                        },
+                        {
+                            "x": "2011",
+                            "y": "0.05",
+                            "tooltip": "<i>2011</i> 1 951"
+                        },
+                        {
+                            "x": "2012",
+                            "y": "0.06",
+                            "tooltip": "<i>2012</i> 2 061"
+                        },
+                        {
+                            "x": "2013",
+                            "y": "0.05",
+                            "tooltip": "<i>2013</i> 1 737"
+                        }
+                    ],
+                    "series-options": {
+                        "width": 19,
+                        "height": 19,
+                        "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                        "class": "h-sprite"
+                    }
                 },
                 {
                     "background": "/img/carte-2013/slide-01/tooltip-renouvellement@2x.png",
