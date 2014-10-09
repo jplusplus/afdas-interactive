@@ -1,4 +1,4 @@
-# Ile-de-France Interactive 
+# AFDAS: Les journalistes détenteurs de la carte de journaliste professionnel en 2013
 ## Installation
 ### Software dependencies
 To make this project up and running, you need:
@@ -37,9 +37,9 @@ Such as a configuration file, the JSON file must fit to the following structure 
 // An array detailing every steps
 [
     // Step configuration
-    {        
+    {
         "name": "name of the step",
-        "spots": [ 
+        "spots": [
             // Spot configuration
             {
                 "top":  "0%",
@@ -59,9 +59,9 @@ Every step object can follow this options:
 Name | Type | Description | Exemple |
 ---- | ---- | ---- | ---- |
 name | String | Name of the step, displaying on the main menu and as the step's title | "Soft kitty, warm kitty"
-menu-name | String | Alternative menu name (only displayed on the menu) | "Soft kitty" | 
+menu-name | String | Alternative menu name (only displayed on the menu) | "Soft kitty" |
 no-index | Boolean | Set to true exit the step from the main menu. |
-picture | String | URL to an image file to display as "background", take the whole width. | 
+picture | String | URL to an image file to display as "background", take the whole width. |
 style | String | Inline CSS to apply to the current step. | "font-size:17px; color: red"
 spots | Array | List of spots display in that step, see also [Spot configuration](#spots). |
 class | String | One or serveral space-separated classes to put on the step | "purr"
