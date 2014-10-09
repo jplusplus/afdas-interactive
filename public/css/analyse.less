@@ -5,6 +5,19 @@
 	left:0;
 	right:0;
 	z-index:@zIndexAnalyse;
+	.transition(opacity 0.6s);
+
+	&.hidden {
+		display: block;
+		visibility: visible;
+		.opacity(0);
+		pointer-events: none;
+
+		.dialog {
+			.translate(0, -100%);
+			.opacity(0);
+		}
+	}
 
 	.overlay {
 		position:absolute;
@@ -23,6 +36,7 @@
 		background: white;
 		padding: 30px 10px;
 		.box-shadow(0 0 30px 0 black);
+		.transition(0.6s);
 
 		h3 {
 			text-align: center;
