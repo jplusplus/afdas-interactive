@@ -278,8 +278,410 @@
             ]
         },
         {
-            "name": "Portrait-robot du journaliste en 2000 et 2013",
-            "spots": []
+            "name": "Portrait-robot du journaliste<br />en 2000 et 2013",
+            "_picture": "/img/slides-afdas-DEF-07.jpg",
+            "spots": [
+                {
+                    "background": "/img/carte-2013/slide-02/btn-01@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "24.8484%",
+                    "left": "6.5429%",
+                    "class": "js-active v-sprite sample",
+                    "activable": ".sample"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-02@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "31.6666%",
+                    "left": "6.5429%",
+                    "class": "sample v-sprite",
+                    "activable": ".sample"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-03@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "38.0303%",
+                    "left": "6.5429%",
+                    "class": "sample v-sprite",
+                    "activable": ".sample"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-sex@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "57.7272%",
+                    "left": "12.7929%",
+                    "class": "js-active v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-age@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "62.2727%",
+                    "left": "12.7929%",
+                    "class": "v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-contrat@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "66.8181%",
+                    "left": "12.7929%",
+                    "class": "v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-secteur@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "71.3636%",
+                    "left": "12.8906%",
+                    "class": "v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-revenu@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "75.7575%",
+                    "left": "12.7929%",
+                    "class": "v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/picto-cursus@2x.png",
+                    "width": 100,
+                    "height": 20,
+                    "top": "80.1515%",
+                    "left": "12.7929%",
+                    "class": "v-sprite category",
+                    "activable": ".category"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/title-submenu@2x.png",
+                    "width": 165,
+                    "height": 16,
+                    "top": "52.2727%",
+                    "left": "7.4218%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/bg-portrait-caracter-01@2x.png",
+                    "width": 639,
+                    "height": 482,
+                    "resolve": ".sample:eq(0)",
+                    "top": "22.5757%",
+                    "left": "28.0273%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/bg-portrait-caracter-02@2x.png",
+                    "width": 639,
+                    "height": 482,
+                    "resolve": ".sample:eq(1)",
+                    "top": "22.5757%",
+                    "left": "28.0273%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/bg-portrait-caracter-03@2x.png",
+                    "width": 639,
+                    "height": 482,
+                    "resolve": ".sample:eq(2)",
+                    "top": "22.5757%",
+                    "left": "28.0273%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-01@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(0)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-02@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(1)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-03@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(2)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-04@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(3)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-05@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(4)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideA-06@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "resolve": ".sample:eq(0), .category:eq(5)",
+                    "top": "41.9696%",
+                    "left": "31.7382%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-01@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(0)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-02@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(1)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-03@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(2)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-04@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(3)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-05@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(4)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideB-06@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(1), .category:eq(5)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-01@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(0)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-02@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(1)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-03@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(2)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-04@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(3)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-05@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(4)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/slideC-06@2x.png",
+                    "width": 550,
+                    "height": 340,
+                    "top": "41.9696%",
+                    "left": "31.7382%",
+                    "resolve": ".sample:eq(2), .category:eq(5)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(0)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(1)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(2)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(3)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(4)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/btn-detail@2x.png",
+                    "width": 130,
+                    "height": 25,
+                    "top": "52.7272%",
+                    "left": "51.9531%",
+                    "href": "#step=2",
+                    "resolve": ".category:eq(5)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "57.4242%",
+                    "left": "9.7656%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "57.4242%",
+                    "left": "9.7656%",
+                    "resolve": ".category:eq(0)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "61.8181%",
+                    "left": "9.7656%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "61.8181%",
+                    "left": "9.7656%",
+                    "resolve": ".category:eq(1)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "66.5151%",
+                    "left": "9.7656%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "66.5151%",
+                    "left": "9.7656%",
+                    "resolve": ".category:eq(2)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "71.0606%",
+                    "left": "9.7656%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "71.0606%",
+                    "left": "9.7656%",
+                    "resolve": ".category:eq(3)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "75.606%",
+                    "left": "9.6679%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "75.606%",
+                    "left": "9.6679%",
+                    "resolve": ".category:eq(4)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-off@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "80%",
+                    "left": "9.7656%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "height": 20,
+                    "width": 20,
+                    "top": "80%",
+                    "left": "9.7656%",
+                    "resolve": ".category:eq(5)"
+                }
+            ]
         }
     ]
 }
