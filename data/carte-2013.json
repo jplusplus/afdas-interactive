@@ -2,7 +2,94 @@
     "steps": [
         {
             "no-index": true,
-            "spots": []
+            "spots": [
+                {
+                    "background": "/img/carte-2013/home/bg-caracter@2x.png",
+                    "width": 674,
+                    "height": 660,
+                    "top": "0%",
+                    "left": "34.082%"
+                },
+                {
+                    "background": "/img/carte-2013/home/green-sidebar@2x.png",
+                    "width": 390,
+                    "height": 660,
+                    "top": "0%",
+                    "left": "0%"
+                },
+                {
+                    "background": "/img/carte-2013/home/afdas-logo@2x.png",
+                    "width": 75,
+                    "height": 24,
+                    "top": "90.303%",
+                    "left": "89.5507%"
+                },
+                {
+                    "background": "/img/carte-2013/home/logo-observatoire@2x.png",
+                    "width": 240,
+                    "height": 118,
+                    "top": "9.8484%",
+                    "left": "5.4687%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-01@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "35.1515%",
+                    "left": "4.2968%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-02@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "34.8484%",
+                    "left": "13.6718%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-03@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "35%",
+                    "left": "22.9492%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-04@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "46.9696%",
+                    "left": "4.1015%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-05@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "46.9696%",
+                    "left": "13.5742%"
+                },
+                {
+                    "background": "/img/carte-2013/home/picto-06@2x.png",
+                    "width": 80,
+                    "height": 60,
+                    "top": "46.8181%",
+                    "left": "23.0468%"
+                },
+                {
+                    "background": "/img/carte-2013/home/subtitle@2x.png",
+                    "width": 273,
+                    "height": 48,
+                    "top": "53.9393%",
+                    "left": "37.7929%",
+                    "class": "fg"
+                },
+                {
+                    "background": "/img/carte-2013/home/title@2x.png",
+                    "width": 542,
+                    "height": 286,
+                    "top": "27.8787%",
+                    "left": "37.9882%",
+                    "class": "fg"
+                }
+            ]
         },
         {
             "name": "1975 à 2013 : évolution du nombre de journaliste encartés",
