@@ -769,6 +769,146 @@
                     "resolve": ".category:eq(5)"
                 }
             ]
+        },
+        {
+            "name": "Àge : un vieillissement<br />de la profession",
+            "_picture": "/img/slides-afdas-DEF-25.jpg",
+            "class": "chapter",
+            "spots": [
+                {
+                    "background": "/img/carte-2013/slide-03/ageA-2000@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "17.2851%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/ageA-2013@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "29.5898%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/ageB-2000@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "41.8945%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/ageB-2013@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "55.1757%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/ageC-2000@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "66.9921%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/ageC-2013@2x.png",
+                    "width": 30,
+                    "height": 27,
+                    "top": "83.6363%",
+                    "left": "80.2734%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/bar-chart-01@2x.png",
+                    "width": 235,
+                    "height": 206,
+                    "top": "31.5151%",
+                    "left": "23.9257%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/bar-chart-02@2x.png",
+                    "width": 162,
+                    "height": 206,
+                    "top": "31.5151%",
+                    "left": "49.8046%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/bar-chart-03@2x.png",
+                    "width": 162,
+                    "height": 206,
+                    "top": "31.5151%",
+                    "left": "72.4609%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/bg-graphe@2x.png",
+                    "width": 805,
+                    "height": 240,
+                    "top": "25.909%",
+                    "left": "10.7421%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-01@2x.png",
+                    "width": 78,
+                    "height": 96,
+                    "top": "78.0303%",
+                    "left": "20.996%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-02@2x.png",
+                    "width": 78,
+                    "height": 96,
+                    "top": "78.0303%",
+                    "left": "45.996%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-03@2x.png",
+                    "width": 78,
+                    "height": 96,
+                    "top": "78.1818%",
+                    "left": "71.0937%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/picto-title@2x.png",
+                    "width": 45,
+                    "height": 50,
+                    "top": "8.4848%",
+                    "left": "3.8085%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-01@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "26.6666%",
+                    "left": "34.8632%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-02@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "26.6666%",
+                    "left": "47.8515%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-03@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "26.6666%",
+                    "left": "72.5585%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/title-01@2x.png",
+                    "width": 387,
+                    "height": 17,
+                    "top": "21.3636%",
+                    "left": "10.8398%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/title-02@2x.png",
+                    "width": 362,
+                    "height": 18,
+                    "top": "67.4242%",
+                    "left": "10.6445%"
+                }
+            ]
         }
     ]
 }
