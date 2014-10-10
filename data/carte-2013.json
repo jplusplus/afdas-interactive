@@ -630,7 +630,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=6",
                     "resolve": ".category:eq(0)"
                 },
                 {
@@ -639,7 +639,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=3",
                     "resolve": ".category:eq(1)"
                 },
                 {
@@ -648,7 +648,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=8",
                     "resolve": ".category:eq(2)"
                 },
                 {
@@ -657,7 +657,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=5",
                     "resolve": ".category:eq(3)"
                 },
                 {
@@ -666,7 +666,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=9",
                     "resolve": ".category:eq(4)"
                 },
                 {
@@ -675,7 +675,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=2",
+                    "href": "#step=10",
                     "resolve": ".category:eq(5)"
                 },
                 {
