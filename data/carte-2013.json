@@ -139,7 +139,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-TJ@2x.png",
                     "width": 183,
                     "height": 37,
-                    "class": "v-sprite tab",
+                    "class": "v-sprite tab js-active",
                     "top": "22.7272%",
                     "left": "14.2578%",
                     "activable": true
@@ -148,7 +148,7 @@
                     "background": "/img/carte-2013/slide-01/sprite-btn-detail@2x.png",
                     "width": 230,
                     "height": 37,
-                    "class": "v-sprite tab js-active",
+                    "class": "v-sprite tab",
                     "top": "22.7272%",
                     "left": "32.8125%",
                     "activable": true
@@ -163,6 +163,78 @@
                     "entrance": "fadeIn"
                 },
                 {
+                    "width": 149,
+                    "height": 130,
+                    "top": "51.6666%",
+                    "left": "14.746%",
+                    "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn",
+                    "series": [
+                        {
+                            "x": 1975,
+                            "y": 13635,
+                            "tooltip": "<i>1975</i>13 635"
+                        },
+                        {
+                            "x": 1980,
+                            "y": 16619,
+                            "tooltip": "<i>1980</i>16 619"
+                        },
+                        {
+                            "x": 1985,
+                            "y": 22621,
+                            "tooltip": "<i>1985</i>22 621"
+                        },
+                        {
+                            "x": 1990,
+                            "y": 26614,
+                            "tooltip": "<i>1990</i>26 614"
+                        },
+                        {
+                            "x": 1995,
+                            "y": 28000,
+                            "tooltip": "<i>1995</i>28 000"
+                        }
+                    ],
+                    "series-options": {
+                        "width": 19,
+                        "height": 19,
+                        "background": "/img/carte-2013/slide-01/dots-chart-01@2x.png",
+                        "class": "h-sprite"
+                    }
+                },
+                {
+                    "width": 520,
+                    "height": 55,
+                    "top": "37.5757%",
+                    "left": "33.3007%",
+                    "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn",
+                    "series": [
+                    	{ "x":1999,	"y": 31902,	"tooltip": "<i>1999</i>31 902" },
+						{ "x":2000,	"y": 33153,	"tooltip": "<i>2000</i>33 153" },
+						{ "x":2001,	"y": 34690,	"tooltip": "<i>2001</i>34 690" },
+						{ "x":2002,	"y": 35446,	"tooltip": "<i>2002</i>35 446" },
+						{ "x":2003,	"y": 35906,	"tooltip": "<i>2003</i>35 906" },
+						{ "x":2004,	"y": 36304,	"tooltip": "<i>2004</i>36 304" },
+						{ "x":2005,	"y": 36586,	"tooltip": "<i>2005</i>36 586" },
+						{ "x":2006,	"y": 37111,	"tooltip": "<i>2006</i>37 111" },
+						{ "x":2007,	"y": 37457,	"tooltip": "<i>2007</i>37 457" },
+						{ "x":2008,	"y": 37501,	"tooltip": "<i>2008</i>37 501" },
+						{ "x":2009,	"y": 37531,	"tooltip": "<i>2009</i>37 531" },
+						{ "x":2010,	"y": 37094,	"tooltip": "<i>2010</i>37 094" },
+						{ "x":2011,	"y": 36942,	"tooltip": "<i>2011</i>36 942" },
+						{ "x":2012,	"y": 37140,	"tooltip": "<i>2012</i>37 140" },
+						{ "x":2013,	"y": 36907,	"tooltip": "<i>2013</i>36 907" }
+                    ],
+                    "series-options": {
+                        "width": 19,
+                        "height": 19,
+                        "background": "/img/carte-2013/slide-01/dots-chart-01@2x.png",
+                        "class": "h-sprite"
+                    }
+                },
+                {
                     "background": "/img/carte-2013/slide-01/graph-on@2x.png",
                     "width": 738,
                     "height": 380,
@@ -174,6 +246,7 @@
                 {
                     "background": "/img/carte-2013/slide-01/legend-tuto@2x.png",
                     "width": 251,
+                    "height": 26,
                     "top": "30.4545%",
                     "left": "14.8437%"
                 },
@@ -1121,9 +1194,9 @@
                     "left": "12.7929%"
                 },
                 {
-                	"width": "100%",
-                	"height": "100%",
-                	"activable": true,
+                    "width": "100%",
+                    "height": "100%",
+                    "activable": true,
                     "class": "repartition-toggler not-clickable fg"
                 },
                 {
@@ -1132,7 +1205,7 @@
                     "height": 36,
                     "top": "65%",
                     "left": "19.1406%",
-                	"activable": true,
+                    "activable": true,
                     "class": "repartition-toggler fg"
                 },
                 {
@@ -1141,7 +1214,7 @@
                     "height": 36,
                     "top": "71.0606%",
                     "left": "19.1406%",
-                	"activable": true,
+                    "activable": true,
                     "class": "repartition-toggler fg"
                 },
                 {
@@ -1150,7 +1223,7 @@
                     "height": 36,
                     "top": "77.2727%",
                     "left": "19.1406%",
-                	"activable": true,
+                    "activable": true,
                     "class": "repartition-toggler fg"
                 },
                 {
@@ -1268,7 +1341,6 @@
                     "left": "6.25%",
                     "resolve": ".repartition-toggler:eq(2)",
                     "entrance": "fadeIn stepDown"
-
                 },
                 {
                     "background": "/img/carte-2013/slide-06/tooltip-dataA01.png",
@@ -1278,7 +1350,6 @@
                     "left": "6.25%",
                     "resolve": ".repartition-toggler:eq(3)",
                     "entrance": "fadeIn stepDown"
-
                 }
             ]
         },
