@@ -776,6 +776,13 @@
             "class": "chapter",
             "spots": [
                 {
+                    "background": "/img/carte-2013/slide-03/picto-title@2x.png",
+                    "width": 45,
+                    "height": 50,
+                    "top": "8.4848%",
+                    "left": "3.8085%"
+                },
+                {
                     "background": "/img/carte-2013/slide-03/ageA-2000@2x.png",
                     "width": 30,
                     "height": 27,
@@ -867,13 +874,6 @@
                     "left": "71.0937%"
                 },
                 {
-                    "background": "/img/carte-2013/slide-03/picto-title@2x.png",
-                    "width": 45,
-                    "height": 50,
-                    "top": "8.4848%",
-                    "left": "3.8085%"
-                },
-                {
                     "background": "/img/carte-2013/slide-03/subtitle-01@2x.png",
                     "width": 150,
                     "height": 17,
@@ -907,6 +907,164 @@
                     "height": 18,
                     "top": "67.4242%",
                     "left": "10.6445%"
+                }
+            ]
+        },
+        {
+            "name": "Àge : des différences importantes<br />entre secteurs et types de contrat",
+            "_picture": "/img/slides-afdas-DEF-27.jpg",
+            "class": "chapter",
+            "spots": [
+                {
+                    "background": "/img/carte-2013/slide-03/picto-title@2x.png",
+                    "width": 45,
+                    "height": 50,
+                    "top": "8.4848%",
+                    "left": "3.8085%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataA-01@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "28.0303%",
+                    "left": "14.4531%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataA-02@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "28.0303%",
+                    "left": "34.375%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataA-03@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "27.8787%",
+                    "left": "54.2968%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataA-04@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "28.0303%",
+                    "left": "74.2187%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataB-01@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "68.1818%",
+                    "left": "14.4531%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataB-02@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "68.1818%",
+                    "left": "34.375%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataB-03@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "68.1818%",
+                    "left": "54.2968%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/dataB-04@2x.png",
+                    "width": 115,
+                    "height": 150,
+                    "top": "68.1818%",
+                    "left": "74.2187%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/legend-dataA04@2x.png",
+                    "width": 92,
+                    "height": 22,
+                    "top": "50.4545%",
+                    "left": "75.4882%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/legend-interaction@2x.png",
+                    "width": 340,
+                    "height": 12,
+                    "top": "24.5454%",
+                    "left": "10.1562%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/title-01@2x.png",
+                    "width": 477,
+                    "height": 18,
+                    "top": "20.606%",
+                    "left": "10.2539%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/title-02@2x.png",
+                    "width": 328,
+                    "height": 18,
+                    "top": "61.8181%",
+                    "left": "10.2539%"
+                },
+                {
+                	"width": "100%",
+                	"height": "100%",
+                    "class": "tooltip-toggler",
+                    "activable": true
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/big-tooltip-dataA01@2x.png",
+                    "width": 900,
+                    "height": 270,
+                    "top": "53.3333%",
+                    "left": "6.0546%",
+                    "resolve": ".tooltip-toggler:eq(1)",
+                    "entrance": "fadeIn stepUp"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/big-tooltip-dataA02@2x.png",
+                    "width": 900,
+                    "height": 270,
+                    "top": "53.3333%",
+                    "left": "6.0546%",
+                    "resolve": ".tooltip-toggler:eq(2)",
+                    "entrance": "fadeIn stepUp"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/big-tooltip-dataA03@2x.png",
+                    "width": 900,
+                    "height": 270,
+                    "top": "53.3333%",
+                    "left": "6.0546%",
+                    "resolve": ".tooltip-toggler:eq(3)",
+                    "entrance": "fadeIn stepUp"
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
+                    "width": 32,
+                    "height": 32,
+                    "top": "50.303%",
+                    "left": "18.5546%",
+                    "class": "tooltip-toggler",
+                    "activable": true
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
+                    "width": 32,
+                    "height": 32,
+                    "top": "50.303%",
+                    "left": "38.4765%",
+                    "class": "tooltip-toggler",
+                    "activable": true
+                },
+                {
+                    "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
+                    "width": 32,
+                    "height": 32,
+                    "top": "50.303%",
+                    "left": "58.3984%",
+                    "class": "tooltip-toggler",
+                    "activable": true
                 }
             ]
         }
