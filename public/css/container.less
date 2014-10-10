@@ -126,6 +126,20 @@
                 background-size:auto 100%;
             }
 
+            &.reverse-sprite.v-sprite > .js-animation-wrapper {
+                background-position:left bottom;
+            }
+
+            &.reverse-sprite.h-sprite > .js-animation-wrapper {
+                background-position:right top;
+            }
+
+            &.reverse-sprite.v-sprite.js-active > .js-animation-wrapper,
+            &.reverse-sprite.h-sprite.js-active > .js-animation-wrapper {
+                background-position:0 0;
+            }
+
+
             &.focus {
                 &  > .js-animation-wrapper {
                     .box-shadow(black 0 0 20px);
