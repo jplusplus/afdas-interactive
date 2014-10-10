@@ -7,7 +7,6 @@
         {
             "name": "1975 à 2013 : évolution du nombre de journaliste encartés",
             "sub-title": "En effectif",
-            "_picture": "/img/slide-01-B.jpg",
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-01/sprite-btn-TJ@2x.png",
@@ -143,7 +142,7 @@
                     "series-options": {
                         "width": 19,
                         "height": 19,
-                        "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                        "background": "/img/carte-2013/slide-01/dots-chart-03@2x.png",
                         "class": "h-sprite",
                         "queue": true,
                         "entrance": "fadeIn stepDown",
@@ -242,12 +241,39 @@
                     "series-options": {
                         "width": 19,
                         "height": 19,
-                        "background": "/img/carte-2013/slide-01/sprite-dots.png",
+                        "background": "/img/carte-2013/slide-01/dots-chart-02@2x.png",
                         "queue": true,
                         "entrance": "fadeIn stepDown",
-                        "entrance-duration": 150,
-                        "class": "h-sprite"
+                        "entrance-duration": 150
                     }
+                },
+                {
+                    "background": "img/carte-2013/slide-01/press-card-10000@2x.png",
+                    "width": 84,
+                    "height": 50,
+                    "top": "72.7272%",
+                    "left": "85.4492%"
+                },
+                {
+                    "background": "img/carte-2013/slide-01/press-card-20000@2x.png",
+                    "width": 84,
+                    "height": 50,
+                    "top": "59.0909%",
+                    "left": "85.4492%"
+                },
+                {
+                    "background": "img/carte-2013/slide-01/press-card-30000@2x.png",
+                    "width": 84,
+                    "height": 50,
+                    "top": "45.303%",
+                    "left": "85.4492%"
+                },
+                {
+                    "background": "img/carte-2013/slide-01/press-card-40000@2x.png",
+                    "width": 84,
+                    "height": 50,
+                    "top": "31.6666%",
+                    "left": "85.4492%"
                 }
             ]
         },
