@@ -92,7 +92,7 @@
             ]
         },
         {
-            "name": "1975 à 2013 : évolution du nombre de journaliste encartés",
+            "name": "1975 à 2013 : évolution du nombre<br />de journaliste encartés",
             "sub-title": "En effectif",
             "spots": [
                 {
@@ -1067,6 +1067,36 @@
                     "activable": true
                 }
             ]
+        },
+        {
+        	"name": "Secteurs : une presse écrite<br />qui reste dominante",
+        	"spots": [],
+        	"class": "chapter"
+        },
+        {
+        	"name": "Sexe : une féminisation<br />qui se confirme",
+        	"spots": [],
+        	"class": "chapter"
+        },
+        {
+        	"name": "Postes de responsabilité : plus de femmes,<br />des inégalités salariales persistantes",
+        	"spots": [],
+        	"class": "chapter"
+        },
+        {
+        	"name": "Contrats : les impacts<br />de la crise du secteur",
+        	"spots": [],
+        	"class": "chapter"
+        },
+        {
+        	"name": "Revenus : de fortes baisses<br />selon les statuts",
+        	"spots": [],
+        	"class": "chapter"
+        },
+        {
+        	"name": "Cursus : un impact sur le premier contrat,<br />mais pas sur les revenus",
+        	"spots": [],
+        	"class": "chapter"
         }
     ]
 }

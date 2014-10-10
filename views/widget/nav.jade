@@ -13,7 +13,7 @@
                 each step, stepKey in data.steps
                     li(class=(step["no-index"] ? "hidden":""))
                         a.to-step(href="#step="+stepKey, data-step=stepKey)
-                            span.wrapper=strip_tags(step["menu-name"] || step["name"])
+                            span.wrapper!=(step["menu-name"] || step["name"])
 
     unless data["no-arrows"]
         ul.arrows
