@@ -32,14 +32,8 @@ body {
     font: @baseFontSize @baseFontFamily;
     background:darken(@bodyBackground, 2%);
     color:@textColor;
-
-    .spot a, .spot {
-      color: black;
-      text-decoration:none;
-    }
     // no scale() available, we show the scrollbar
     .no-csstransforms & { overflow: auto; }
-
     h1, h2, h3, h4, h5, h6 {
         font-family: @headingsFontFamily;
     }

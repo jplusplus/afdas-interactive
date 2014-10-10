@@ -1044,7 +1044,7 @@
                 {
                     "width": "100%",
                     "height": "100%",
-                    "class": "tooltip-toggler",
+                    "class": "tooltip-toggler not-clickable",
                     "activable": true
                 },
                 {
@@ -1124,7 +1124,7 @@
                 	"width": "100%",
                 	"height": "100%",
                 	"activable": true,
-                    "class": "repartition-toggler fg"
+                    "class": "repartition-toggler not-clickable fg"
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataA01@2x.png",
