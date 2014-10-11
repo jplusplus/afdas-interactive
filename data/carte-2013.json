@@ -96,6 +96,16 @@
             "sub-title": "En effectif",
             "spots": [
                 {
+                    "background": "/img/carte-2013/slide-01/graph-off@2x.png",
+                    "width": 738,
+                    "height": 380,
+                    "top": "35.303%",
+                    "left": "13.4765%",
+                    "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn",
+                    "queue": true
+                },
+                {
                     "background": "img/carte-2013/slide-01/press-card-40000@2x.png",
                     "width": 84,
                     "height": 50,
@@ -152,15 +162,6 @@
                     "top": "22.7272%",
                     "left": "32.8125%",
                     "activable": true
-                },
-                {
-                    "background": "/img/carte-2013/slide-01/graph-off@2x.png",
-                    "width": 738,
-                    "height": 380,
-                    "top": "35.303%",
-                    "left": "13.4765%",
-                    "resolve": ".tab:eq(0)",
-                    "entrance": "fadeIn"
                 },
                 {
                     "width": 149,
