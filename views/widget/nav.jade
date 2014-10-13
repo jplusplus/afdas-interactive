@@ -13,7 +13,7 @@
             ul.chapters
                 each step, stepKey in data.steps
                     li(class=(step["no-index"] ? "hidden":""))
-                        a.to-step(href="#step="+stepKey, data-step=stepKey)
+                        a.js-nav-toggler.to-step(href="#step="+stepKey, data-step=stepKey)
                             span.wrapper!=(step["menu-name"] || step["name"])
 
     unless data["no-arrows"]
