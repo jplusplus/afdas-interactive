@@ -566,8 +566,8 @@
                     "background": "/img/carte-2013/slide-02/picto-sex@2x.png",
                     "width": 100,
                     "height": 20,
-                    "top": "57.7272%",
-                    "left": "12.7929%",
+                    "top": "61.6666%",
+                    "left": "12.5%",
                     "class": "js-active v-sprite reverse-sprite category",
                     "activable": ".category"
                 },
@@ -575,8 +575,8 @@
                     "background": "/img/carte-2013/slide-02/picto-age@2x.png",
                     "width": 100,
                     "height": 20,
-                    "top": "62.2727%",
-                    "left": "12.7929%",
+                    "top": "66.3636%",
+                    "left": "12.5976%",
                     "class": "v-sprite reverse-sprite category",
                     "activable": ".category"
                 },
@@ -584,8 +584,8 @@
                     "background": "/img/carte-2013/slide-02/picto-contrat@2x.png",
                     "width": 100,
                     "height": 20,
-                    "top": "66.8181%",
-                    "left": "12.7929%",
+                    "top": "71.0606%",
+                    "left": "12.4023%",
                     "class": "v-sprite reverse-sprite category",
                     "activable": ".category"
                 },
@@ -593,8 +593,8 @@
                     "background": "/img/carte-2013/slide-02/picto-secteur@2x.png",
                     "width": 100,
                     "height": 20,
-                    "top": "71.3636%",
-                    "left": "12.8906%",
+                    "top": "57.2727%",
+                    "left": "12.3046%",
                     "class": "v-sprite reverse-sprite category",
                     "activable": ".category"
                 },
@@ -881,10 +881,11 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
-                    "top": "57.4242%",
-                    "left": "9.7656%",
+                    "top": "61.6666%",
+                    "left": "9.6679%",
                     "resolve": ".category:eq(0)"
                 },
                 {
@@ -896,10 +897,11 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
-                    "top": "61.8181%",
-                    "left": "9.7656%",
+                    "top": "66.3636%",
+                    "left": "9.6679%",
                     "resolve": ".category:eq(1)"
                 },
                 {
@@ -911,10 +913,11 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
-                    "top": "66.5151%",
-                    "left": "9.7656%",
+                    "top": "70.909%",
+                    "left": "9.6679%",
                     "resolve": ".category:eq(2)"
                 },
                 {
@@ -926,10 +929,11 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
-                    "top": "71.0606%",
-                    "left": "9.7656%",
+                    "top": "57.2727%",
+                    "left": "9.6679%",
                     "resolve": ".category:eq(3)"
                 },
                 {
@@ -941,6 +945,7 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
                     "top": "75.606%",
@@ -956,6 +961,7 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-02/sprite-dot-submenu-on@2x.png",
+                    "class": "fg",
                     "height": 20,
                     "width": 20,
                     "top": "80%",
