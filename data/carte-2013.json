@@ -611,7 +611,7 @@
                     "background": "/img/carte-2013/slide-02/picto-cursus@2x.png",
                     "width": 100,
                     "height": 20,
-                    "top": "80.1515%",
+                    "top": "80%",
                     "left": "12.7929%",
                     "class": "v-sprite reverse-sprite category",
                     "activable": ".category"
@@ -972,7 +972,6 @@
         },
         {
             "name": "Àge : un vieillissement<br />de la profession",
-            "_picture": "/img/slides-afdas-DEF-25.jpg",
             "class": "chapter",
             "spots": [
                 {
@@ -981,48 +980,6 @@
                     "height": 50,
                     "top": "8.4848%",
                     "left": "3.8085%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageA-2000@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "17.2851%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageA-2013@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "29.5898%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageB-2000@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "41.8945%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageB-2013@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "55.1757%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageC-2000@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "66.9921%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/ageC-2013@2x.png",
-                    "width": 30,
-                    "height": 27,
-                    "top": "83.6363%",
-                    "left": "80.2734%"
                 },
                 {
                     "background": "/img/carte-2013/slide-03/bg-graphe@2x.png",
@@ -1059,33 +1016,6 @@
                     "entrance": "stepLeft fadeIn"
                 },
                 {
-                    "background": "/img/carte-2013/slide-03/circle-chart-01@2x.png",
-                    "width": 78,
-                    "height": 96,
-                    "top": "78.0303%",
-                    "left": "20.996%",
-                    "queue": true,
-                    "entrance": "zoomIn fadeIn"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/circle-chart-02@2x.png",
-                    "width": 78,
-                    "height": 96,
-                    "top": "78.0303%",
-                    "left": "45.996%",
-                    "queue": true,
-                    "entrance": "zoomIn fadeIn"
-                },
-                {
-                    "background": "/img/carte-2013/slide-03/circle-chart-03@2x.png",
-                    "width": 78,
-                    "height": 96,
-                    "top": "78.1818%",
-                    "left": "71.0937%",
-                    "queue": true,
-                    "entrance": "zoomIn fadeIn"
-                },
-                {
                     "background": "/img/carte-2013/slide-03/title-01@2x.png",
                     "width": 387,
                     "height": 17,
@@ -1094,17 +1024,45 @@
                 },
                 {
                     "background": "/img/carte-2013/slide-03/title-02@2x.png",
-                    "width": 362,
+                    "width": 175,
                     "height": 18,
                     "top": "67.4242%",
                     "left": "10.6445%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-HF-01@2x.png",
+                    "width": 240,
+                    "height": 92,
+                    "top": "76.6666%",
+                    "left": "19.3359%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-HF-02@2x.png",
+                    "width": 240,
+                    "height": 92,
+                    "top": "76.8181%",
+                    "left": "60.7421%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-01@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "73.4848%",
+                    "left": "22.9492%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-02@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "73.3333%",
+                    "left": "65.039%"
                 }
             ]
         },
         {
             "name": "Àge : des différences importantes<br />entre secteurs et types de contrat",
-            "_picture": "/img/slides-afdas-DEF-27.jpg",
             "class": "chapter",
+            "picture": "/img/slides-afdas-DEF-26.jpg",
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-03/picto-title@2x.png",
@@ -1142,32 +1100,25 @@
                     "left": "74.2187%"
                 },
                 {
-                    "background": "/img/carte-2013/slide-04/dataB-01@2x.png",
-                    "width": 115,
-                    "height": 150,
-                    "top": "68.1818%",
-                    "left": "14.4531%"
-                },
-                {
                     "background": "/img/carte-2013/slide-04/dataB-02@2x.png",
                     "width": 115,
                     "height": 150,
-                    "top": "68.1818%",
-                    "left": "34.375%"
+                    "top": "68.0303%",
+                    "left": "24.5117%"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/dataB-03@2x.png",
                     "width": 115,
                     "height": 150,
-                    "top": "68.1818%",
-                    "left": "54.2968%"
+                    "top": "68.0303%",
+                    "left": "44.2382%"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/dataB-04@2x.png",
                     "width": 115,
                     "height": 150,
-                    "top": "68.1818%",
-                    "left": "74.2187%"
+                    "top": "68.0303%",
+                    "left": "64.2578%"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/legend-dataA04@2x.png",
@@ -1198,7 +1149,7 @@
                     "left": "10.2539%"
                 },
                 {
-                    "width": "100%",
+                    "width": "0%",
                     "height": "100%",
                     "class": "tooltip-toggler not-clickable",
                     "activable": true
