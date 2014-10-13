@@ -1917,6 +1917,13 @@
             "class": "chapter",
             "spots": [
                 {
+                    "background": "/img/carte-2013/slide-08/picto-title@2x.png",
+                    "width": 45,
+                    "height": 50,
+                    "top": "8.4848%",
+                    "left": "3.8085%"
+                },
+                {
                     "background": "img/carte-2013/slide-08/btn-01@2x.png",
                     "width": 183,
                     "height": 36,
@@ -2278,8 +2285,8 @@
                     "background": "/img/carte-2013/slide-09/picto-title@2x.png",
                     "width": 60,
                     "height": 41,
-                    "top": "9.2424%",
-                    "left": "3.125%"
+                    "top": "9.5454%",
+                    "left": "2.9296%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/big-tooltip-secteur@2x.png",
@@ -2296,6 +2303,13 @@
             "name": "Cursus : un impact sur le premier contrat,<br />mais pas sur les revenus",
             "class": "chapter",
             "spots": [
+                {
+                    "background": "/img/carte-2013/slide-10/picto-title@2x.jpg",
+                    "width": 55,
+                    "height": 43,
+                    "top": "8.4848%",
+                    "left": "3.8085%"
+                },
                 {
                     "background": "/img/carte-2013/slide-10/bg-graphe-bar-chart@2x.png",
                     "width": 695,
