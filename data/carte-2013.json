@@ -1915,7 +1915,111 @@
         {
             "name": "Contrats : les impacts<br />de la crise du secteur",
             "class": "chapter",
-            "spots": []
+            "spots": [
+                {
+                    "background": "img/carte-2013/slide-08/btn-01@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "25%",
+                    "left": "6.6406%",
+                    "class": "js-active contrat-tab v-sprite",
+                    "activable": true
+                },
+                {
+                    "background": "img/carte-2013/slide-08/btn-02@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "31.6666%",
+                    "left": "6.6406%",
+                    "class": "contrat-tab v-sprite",
+                    "activable": true
+                },
+                {
+                    "background": "img/carte-2013/slide-08/btn-03@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "38.1818%",
+                    "left": "6.6406%",
+                    "class": "contrat-tab v-sprite",
+                    "activable": true
+                },
+                {
+                    "background": "img/carte-2013/slide-08/graphe-evo@2x.png",
+                    "width": 330,
+                    "height": 360,
+                    "top": "30.4545%",
+                    "left": "62.8906%"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/main-graphe-A@2x.png",
+                    "width": 370,
+                    "height": 300,
+                    "top": "23.9393%",
+                    "left": "25.2929%",
+                    "resolve": ".contrat-tab:eq(0)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/main-graphe-B@2x.png",
+                    "width": 370,
+                    "height": 300,
+                    "top": "23.9393%",
+                    "left": "25.2929%",
+                    "resolve": ".contrat-tab:eq(1)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/main-graphe-C@2x.png",
+                    "width": 370,
+                    "height": 300,
+                    "top": "23.9393%",
+                    "left": "25.2929%",
+                    "resolve": ".contrat-tab:eq(2)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/repart-A@2x.png",
+                    "width": 410,
+                    "height": 154,
+                    "top": "80.303%",
+                    "left": "7.7148%",
+                    "resolve": ".contrat-tab:eq(0)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/repart-B@2x.png",
+                    "width": 410,
+                    "height": 154,
+                    "top": "80.303%",
+                    "left": "7.7148%",
+                    "resolve": ".contrat-tab:eq(1)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/repart-C@2x.png",
+                    "width": 410,
+                    "height": 154,
+                    "top": "80.303%",
+                    "left": "7.7148%",
+                    "resolve": ".contrat-tab:eq(2)"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/title-A@2x.png",
+                    "width": 317,
+                    "height": 18,
+                    "top": "21.3636%",
+                    "left": "27.246%"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/title-B@2x.png",
+                    "width": 238,
+                    "height": 18,
+                    "top": "21.3636%",
+                    "left": "69.7265%"
+                },
+                {
+                    "background": "img/carte-2013/slide-08/title-C@2x.png",
+                    "width": 418,
+                    "height": 18,
+                    "top": "74.3939%",
+                    "left": "8.8867%"
+                }
+            ]
         },
         {
             "name": "Revenus : de fortes baisses<br />selon les statuts",
