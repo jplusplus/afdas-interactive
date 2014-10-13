@@ -1442,7 +1442,273 @@
         {
             "name": "Revenus : de fortes baisses<br />selon les statuts",
             "class": "chapter",
-            "spots": []
+            "spots": [
+                {
+                    "background": "/img/carte-2013/slide-09/btn-01@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "25.1515%",
+                    "left": "5.957%",
+                    "activable": true,
+                    "class": "v-sprite rev-btn js-active"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/btn-02@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "31.6666%",
+                    "left": "5.957%",
+                    "activable": true,
+                    "class": "v-sprite rev-btn"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/btn-03@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "38.1818%",
+                    "left": "5.957%",
+                    "activable": true,
+                    "class": "v-sprite rev-btn"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/btn-04@2x.png",
+                    "width": 183,
+                    "height": 36,
+                    "top": "56.3636%",
+                    "left": "5.8593%",
+                    "activable": true,
+                    "class": "v-sprite rev-btn"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/legend-slide@2x.png",
+                    "width": 144,
+                    "height": 11,
+                    "top": "94.0909%",
+                    "left": "32.1289%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/legend-tooltip-hover@2x.png",
+                    "width": 125,
+                    "height": 115,
+                    "top": "65.7575%",
+                    "left": "8.496%",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(3)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/scale@2x.png",
+                    "width": 21,
+                    "height": 265,
+                    "top": "33.3333%",
+                    "left": "33.3984%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/title@2x.png",
+                    "width": 478,
+                    "height": 16,
+                    "top": "21.3636%",
+                    "left": "30.1757%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataA01@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "26.2121%",
+                    "left": "36.3281%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataA02@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "26.2121%",
+                    "left": "76.2695%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataA03@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "26.2121%",
+                    "left": "56.5429%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB01@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "26.2121%",
+                    "left": "36.3281%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB02@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "26.2121%",
+                    "left": "76.2695%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB03@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "26.2121%",
+                    "left": "56.5429%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC01@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "26.2121%",
+                    "left": "36.3281%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC02@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "26.2121%",
+                    "left": "76.2695%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC03@2x.png",
+                    "width": "136",
+                    "height": "325",
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "26.2121%",
+                    "left": "56.5429%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-A01@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "81.2121%",
+                    "left": "39.3554%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-A02@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "81.2121%",
+                    "left": "79.7851%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-A03@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(0)",
+                    "top": "81.2121%",
+                    "left": "59.5703%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-B01@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "81.2121%",
+                    "left": "39.3554%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-B02@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "81.2121%",
+                    "left": "79.7851%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-B03@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(1)",
+                    "top": "81.2121%",
+                    "left": "59.5703%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-C01@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "81.2121%",
+                    "left": "39.3554%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-C02@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "81.2121%",
+                    "left": "79.7851%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/_billets/billet-C03@2x.png",
+                    "width": 80,
+                    "height": 75,
+                    "entrance": "fadeIn",
+                    "resolve": ".rev-btn:eq(2)",
+                    "top": "81.2121%",
+                    "left": "59.5703%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/picto-cdd@2x.png",
+                    "width": 55,
+                    "height": 75,
+                    "top": "66.9696%",
+                    "left": "80.2734%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/picto-cdi@2x.png",
+                    "width": 55,
+                    "height": 75,
+                    "top": "66.9696%",
+                    "left": "40.332%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/picto-pigiste@2x.png",
+                    "width": 55,
+                    "height": 75,
+                    "top": "66.9696%",
+                    "left": "60.6445%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/picto-title@2x.png",
+                    "width": 60,
+                    "height": 41,
+                    "top": "9.2424%",
+                    "left": "3.125%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-09/big-tooltip-secteur@2x.png",
+                    "width": 700,
+                    "height": 520,
+                    "top": "13.9393%",
+                    "left": "25.3906%",
+                    "resolve": ".rev-btn:eq(3)",
+                    "entrance": "fadeIn stepLeft"
+                }
+            ]
         },
         {
             "name": "Cursus : un impact sur le premier contrat,<br />mais pas sur les revenus",
