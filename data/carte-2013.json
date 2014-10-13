@@ -2295,7 +2295,99 @@
         {
             "name": "Cursus : un impact sur le premier contrat,<br />mais pas sur les revenus",
             "class": "chapter",
-            "spots": []
+            "spots": [
+                {
+                    "background": "/img/carte-2013/slide-10/bg-graphe-bar-chart@2x.png",
+                    "width": 695,
+                    "height": 64,
+                    "top": "77.2727%",
+                    "left": "13.7695%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/bar-chart012x.png",
+                    "width": 53,
+                    "height": 155,
+                    "top": "73.1818%",
+                    "left": "27.3437%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/bar-chart022x.png",
+                    "width": 53,
+                    "height": 155,
+                    "top": "73.1818%",
+                    "left": "47.6562%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/bar-chart032x.png",
+                    "width": 53,
+                    "height": 155,
+                    "top": "73.3333%",
+                    "left": "67.4804%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/graphe-dataA@2x.png",
+                    "width": 219,
+                    "height": 210,
+                    "top": "26.2121%",
+                    "left": "20.0195%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/graphe-dataB@2x.png",
+                    "width": 219,
+                    "height": 210,
+                    "top": "27.8787%",
+                    "left": "58.8867%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/picto-cdd@2x.png",
+                    "width": 41,
+                    "height": 56,
+                    "top": "51.3636%",
+                    "left": "48.1445%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/picto-cdi@2x.png",
+                    "width": 41,
+                    "height": 56,
+                    "top": "24.3939%",
+                    "left": "48.1445%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/picto-cursus-non-reconnu@2x.png",
+                    "width": 110,
+                    "height": 75,
+                    "top": "39.5454%",
+                    "left": "8.0078%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/picto-cursus-reconnu@2x.png",
+                    "width": 110,
+                    "height": 75,
+                    "top": "39.3939%",
+                    "left": "81.3476%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/picto-pigiste@2x.png",
+                    "width": 41,
+                    "height": 56,
+                    "top": "37.7272%",
+                    "left": "48.0468%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/title-01@2x.png",
+                    "width": 214,
+                    "height": 67,
+                    "top": "21.9696%",
+                    "left": "9.2773%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/title-02@2x.png",
+                    "width": 869,
+                    "height": 29,
+                    "top": "65.7575%",
+                    "left": "9.1796%"
+                }
+            ]
         }
     ]
 }
