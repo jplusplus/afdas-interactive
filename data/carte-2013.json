@@ -928,29 +928,43 @@
                     "background": "/img/carte-2013/slide-03/circle-chart-HF-01@2x.png",
                     "width": 240,
                     "height": 92,
-                    "top": "76.6666%",
-                    "left": "19.3359%"
+                    "top": "76.9696%",
+                    "left": "9.375%"
                 },
                 {
                     "background": "/img/carte-2013/slide-03/circle-chart-HF-02@2x.png",
                     "width": 240,
                     "height": 92,
-                    "top": "76.8181%",
-                    "left": "60.7421%"
+                    "top": "76.9696%",
+                    "left": "66.7968%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/circle-chart-HF-03@2x.png",
+                    "width": 240,
+                    "height": 92,
+                    "top": "76.9696%",
+                    "left": "38.3789%"
                 },
                 {
                     "background": "/img/carte-2013/slide-03/subtitle-01@2x.png",
                     "width": 150,
                     "height": 17,
-                    "top": "73.4848%",
-                    "left": "22.9492%"
+                    "top": "72.8787%",
+                    "left": "13.3789%"
                 },
                 {
                     "background": "/img/carte-2013/slide-03/subtitle-02@2x.png",
                     "width": 150,
                     "height": 17,
-                    "top": "73.3333%",
-                    "left": "65.039%"
+                    "top": "72.7272%",
+                    "left": "70.2148%"
+                },
+                {
+                    "background": "/img/carte-2013/slide-03/subtitle-03@2x.png",
+                    "width": 150,
+                    "height": 17,
+                    "top": "72.7272%",
+                    "left": "42.6757%"
                 }
             ]
         },
