@@ -1030,7 +1030,8 @@
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(0)"
+                    "resolve": ".tooltip-toggler:eq(0)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA02@2x.png",
@@ -1038,7 +1039,8 @@
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(1)"
+                    "resolve": ".tooltip-toggler:eq(1)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA03@2x.png",
@@ -1046,7 +1048,8 @@
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(2)"
+                    "resolve": ".tooltip-toggler:eq(2)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
@@ -1316,7 +1319,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(0)"
+                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(0)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataA02@2x.png",
@@ -1324,7 +1328,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(1)"
+                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(1)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataA03@2x.png",
@@ -1332,7 +1337,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(2)"
+                    "resolve": ".secteur-tab:eq(0), .secteur-toggler:eq(2)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataB01@2x.png",
@@ -1340,7 +1346,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(3)"
+                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(3)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataB02@2x.png",
@@ -1348,7 +1355,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(4)"
+                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(4)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataB03@2x.png",
@@ -1356,7 +1364,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(5)"
+                    "resolve": ".secteur-tab:eq(1), .secteur-toggler:eq(5)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataC01@2x.png",
@@ -1364,7 +1373,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(6)"
+                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(6)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataC02@2x.png",
@@ -1372,7 +1382,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(7)"
+                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(7)",
+                    "entrance": "fadeIn stepUp"
                 },
                 {
                     "background": "/img/carte-2013/slide-05/tooltip-dataC03@2x.png",
@@ -1380,7 +1391,8 @@
                     "height": 250,
                     "top": "59.2424%",
                     "left": "25.2929%",
-                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(8)"
+                    "resolve": ".secteur-tab:eq(2), .secteur-toggler:eq(8)",
+                    "entrance": "fadeIn stepUp"
                 }
             ]
         },
@@ -1537,7 +1549,8 @@
                     "height": 250,
                     "top": "15%",
                     "left": "6.25%",
-                    "resolve": ".repartition-toggler:eq(0)"
+                    "resolve": ".repartition-toggler:eq(0)",
+                    "entrance": "fadeIn stepDown"
                 },
                 {
                     "background": "/img/carte-2013/slide-06/tooltip-dataA02.png",
@@ -1545,7 +1558,8 @@
                     "height": 250,
                     "top": "15%",
                     "left": "6.25%",
-                    "resolve": ".repartition-toggler:eq(1)"
+                    "resolve": ".repartition-toggler:eq(1)",
+                    "entrance": "fadeIn stepDown"
                 },
                 {
                     "background": "/img/carte-2013/slide-06/tooltip-dataA01.png",
@@ -1553,7 +1567,8 @@
                     "height": 250,
                     "top": "15%",
                     "left": "6.25%",
-                    "resolve": ".repartition-toggler:eq(2)"
+                    "resolve": ".repartition-toggler:eq(2)",
+                    "entrance": "fadeIn stepDown"
                 }
             ]
         },
@@ -2126,7 +2141,8 @@
                     "height": 520,
                     "top": "13.9393%",
                     "left": "25.3906%",
-                    "resolve": ".rev-btn:eq(3)"
+                    "resolve": ".rev-btn:eq(3)",
+                    "entrance": "fadeIn stepLeft"
                 }
             ]
         },
