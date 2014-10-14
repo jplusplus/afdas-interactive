@@ -107,7 +107,7 @@
             ]
         },
         {
-            "name": "1975 à 2013 : évolution du nombre<br />de journaliste encartés",
+            "name": "1975 à 2013 : évolution du nombre<br />de journalistes encartés",
             "sub-title": "En effectif",
             "spots-options": {
                 "parallax": 0.8
@@ -936,7 +936,7 @@
                     "height": 92,
                     "top": "76.9696%",
                     "left": "9.375%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -945,7 +945,7 @@
                     "height": 92,
                     "top": "76.9696%",
                     "left": "38.3789%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -954,7 +954,7 @@
                     "height": 92,
                     "top": "76.9696%",
                     "left": "66.7968%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -1037,7 +1037,7 @@
                     "height": 150,
                     "top": "68.0303%",
                     "left": "24.5117%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -1046,7 +1046,7 @@
                     "height": 150,
                     "top": "68.0303%",
                     "left": "44.2382%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -1055,7 +1055,7 @@
                     "height": 150,
                     "top": "68.0303%",
                     "left": "64.2578%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": true
                 },
                 {
@@ -1521,7 +1521,7 @@
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataA02@2x.png",
@@ -1533,7 +1533,7 @@
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataA03@2x.png",
@@ -1545,7 +1545,7 @@
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataA04@2x.png",
@@ -1554,7 +1554,7 @@
                     "top": "83.3333%",
                     "left": "19.1406%",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataB01@2x.png",
@@ -1563,7 +1563,7 @@
                     "top": "65%",
                     "left": "55.4687%",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataB02@2x.png",
@@ -1572,7 +1572,7 @@
                     "top": "71.0606%",
                     "left": "55.5664%",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataB03@2x.png",
@@ -1581,7 +1581,7 @@
                     "top": "77.2727%",
                     "left": "51.5625%",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/bar-chart-dataB04@2x.png",
@@ -1590,7 +1590,7 @@
                     "top": "83.3333%",
                     "left": "51.5625%",
                     "entrance": "fadeIn stepLeft",
-                    "queue": 3200
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-06/legend-interaction@2x.png",
@@ -1948,7 +1948,8 @@
                     "top": "80.303%",
                     "left": "7.7148%",
                     "resolve": ".contrat-tab:eq(0)",
-                    "entrance": "fadeIn"
+                    "entrance": "fadeIn",
+                    "queue": true
                 },
                 {
                     "background": "img/carte-2013/slide-08/repart-B@2x.png",
@@ -1957,7 +1958,8 @@
                     "top": "80.303%",
                     "left": "7.7148%",
                     "resolve": ".contrat-tab:eq(1)",
-                    "entrance": "fadeIn"
+                    "entrance": "fadeIn",
+                    "queue": true
                 },
                 {
                     "background": "img/carte-2013/slide-08/repart-C@2x.png",
@@ -1966,7 +1968,8 @@
                     "top": "80.303%",
                     "left": "7.7148%",
                     "resolve": ".contrat-tab:eq(2)",
-                    "entrance": "fadeIn"
+                    "entrance": "fadeIn",
+                    "queue": true
                 },
                 {
                     "background": "img/carte-2013/slide-08/title-A@2x.png",
@@ -2379,7 +2382,7 @@
                     "height": 155,
                     "top": "73.1818%",
                     "left": "27.3437%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 2400
                 },
                 {
@@ -2388,7 +2391,7 @@
                     "height": 155,
                     "top": "73.1818%",
                     "left": "47.6562%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 2400
                 },
                 {
@@ -2397,7 +2400,7 @@
                     "height": 155,
                     "top": "73.3333%",
                     "left": "67.4804%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 2400
                 }
             ]
