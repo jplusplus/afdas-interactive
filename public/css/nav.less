@@ -22,6 +22,12 @@
         background:url("/img/common/btn_analyse.png") 0 0;
         background-size: 140px auto;
         cursor:pointer;
+        .transition(0.8s);
+
+        .js-loading &, .js-first & {
+            right: 0px;
+            .translate(100%, 0)
+        }
     }
 
     .steps {
