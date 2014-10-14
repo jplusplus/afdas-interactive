@@ -1155,18 +1155,12 @@
                     "left": "10.2539%"
                 },
                 {
-                    "width": "100%",
-                    "height": "100%",
-                    "class": "tooltip-toggler not-clickable",
-                    "activable": true
-                },
-                {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA01@2x.png",
                     "width": 900,
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(1)"
+                    "resolve": ".tooltip-toggler:eq(0)"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA02@2x.png",
@@ -1174,7 +1168,7 @@
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(2)"
+                    "resolve": ".tooltip-toggler:eq(1)"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA03@2x.png",
@@ -1182,7 +1176,7 @@
                     "height": 270,
                     "top": "53.3333%",
                     "left": "6.0546%",
-                    "resolve": ".tooltip-toggler:eq(3)"
+                    "resolve": ".tooltip-toggler:eq(2)"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
@@ -1190,8 +1184,9 @@
                     "height": 32,
                     "top": "50.303%",
                     "left": "18.5546%",
-                    "class": "tooltip-toggler",
-                    "activable": true
+                    "class": "tooltip-toggler not-clickable",
+                    "activable": true,
+                    "trigger": "hover"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
@@ -1199,8 +1194,9 @@
                     "height": 32,
                     "top": "50.303%",
                     "left": "38.4765%",
-                    "class": "tooltip-toggler",
-                    "activable": true
+                    "class": "tooltip-toggler not-clickable",
+                    "activable": true,
+                    "trigger": "hover"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/sprite-btn-tooltip@2x.png",
@@ -1208,8 +1204,9 @@
                     "height": 32,
                     "top": "50.303%",
                     "left": "58.3984%",
-                    "class": "tooltip-toggler",
-                    "activable": true
+                    "class": "tooltip-toggler not-clickable",
+                    "activable": true,
+                    "trigger": "hover"
                 }
             ]
         },
