@@ -1520,7 +1520,7 @@
                     "activable": true,
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1532,7 +1532,7 @@
                     "activable": true,
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1544,7 +1544,7 @@
                     "activable": true,
                     "trigger": "hover",
                     "class": "repartition-toggler not-clickable fg",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1553,7 +1553,7 @@
                     "height": 36,
                     "top": "83.3333%",
                     "left": "19.1406%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1562,7 +1562,7 @@
                     "height": 36,
                     "top": "65%",
                     "left": "55.4687%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1571,7 +1571,7 @@
                     "height": 36,
                     "top": "71.0606%",
                     "left": "55.5664%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1580,7 +1580,7 @@
                     "height": 36,
                     "top": "77.2727%",
                     "left": "51.5625%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -1589,7 +1589,7 @@
                     "height": 36,
                     "top": "83.3333%",
                     "left": "51.5625%",
-                    "entrance": "fadeIn stepLeft",
+                    "entrance": "fadeIn stepUp",
                     "queue": 1200
                 },
                 {
@@ -2094,7 +2094,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "26.2121%",
                     "left": "36.3281%",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataA02@2x.png",
@@ -2103,7 +2103,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 600
                 },
                 {
@@ -2113,7 +2113,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 300
                 },
                 {
@@ -2123,7 +2123,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "26.2121%",
                     "left": "36.3281%",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB02@2x.png",
@@ -2132,7 +2132,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 300
                 },
                 {
@@ -2142,7 +2142,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 600
                 },
                 {
@@ -2152,7 +2152,7 @@
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
                     "left": "36.3281%",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC02@2x.png",
@@ -2162,7 +2162,7 @@
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 600
                 },
                 {
@@ -2173,7 +2173,7 @@
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 300
                 },
                 {
@@ -2184,7 +2184,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
                     "left": "39.3554%",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A02@2x.png",
@@ -2194,7 +2194,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
                     "left": "79.7851%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 600
                 },
                 {
@@ -2205,7 +2205,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
                     "left": "59.5703%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 300
                 },
                 {
@@ -2216,7 +2216,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
                     "left": "39.3554%",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B02@2x.png",
@@ -2226,7 +2226,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
                     "left": "79.7851%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 600
                 },
                 {
@@ -2237,7 +2237,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
                     "left": "59.5703%",
-                    "entrance": "fadeIn stepUp",
+                    "entrance": "fadeIn",
                     "queue": 300
                 },
                 {
@@ -2412,7 +2412,7 @@
                     "top": "73.1818%",
                     "left": "47.6562%",
                     "entrance": "fadeIn stepUp",
-                    "queue": 900
+                    "queue": 1200
                 },
                 {
                     "background": "/img/carte-2013/slide-10/bar-chart03@2x.png",
@@ -2421,7 +2421,7 @@
                     "top": "73.3333%",
                     "left": "67.4804%",
                     "entrance": "fadeIn stepUp",
-                    "queue": 900
+                    "queue": 1500
                 }
             ]
         }
