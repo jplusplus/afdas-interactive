@@ -41,7 +41,6 @@
         }
 
 
-
         .step-heading {
 
             position:absolute;
@@ -49,10 +48,11 @@
             right: 300px;
             top:45px;
             z-index:@zIndexTitle;
-            .transition(top 0.8s);
+            .transition(0.8s);
 
             .js-animating & {
-                top:-100px;
+                .translate(0, -150px);
+                .transition(0.2s);
             }
 
             h2 {
@@ -105,6 +105,7 @@
             z-index:@zIndexSpot;
             background:none;
             pointer-events: none;
+
             a, & {
               color: black;
               text-decoration:none;
@@ -150,6 +151,14 @@
                 background-position:0 0;
             }
 
+            &.picto-title {
+                .transition(0.8s);
+            }
+
+            .js-animating &.picto-title {
+                .translate(0, -150px) !important;
+                .transition(0.2s);
+            }
 
             &.focus {
                 &  > .js-animation-wrapper {
@@ -198,58 +207,6 @@
                 * {
                     background-color:#e2e6e7;
                     filter: inherit;
-                }
-            }
-
-
-            &.launcher {
-                background:url("/img/common/btn_lancez.png") no-repeat 0 0;
-                top:50%;
-                left:50%;
-                margin-left:-270px/2px;
-                margin-top:-275px/2px;
-
-                &:hover {
-                    background-position:0 -280px;
-                }
-            }
-
-            &.app-title {
-
-                color:#666666;
-
-                h3 {
-                    font-weight: 100;
-                    font-size: 32px;
-                    text-shadow: -1px 0 #FFF, 0 1px #FFF, 1px 0 #FFF, 0 -1px #FFF;
-                    margin:0;
-                }
-
-                h4 {
-                    font-weight: bold;
-                    font-size: 48px;
-                    line-height: 50px;
-                    text-shadow: -1px 0 #FFF, 0 1px #FFF, 1px 0 #FFF, 0 -1px #FFF
-                }
-                &.no-shadow {
-                    * {
-                        text-shadow: none;
-                    }
-                }
-
-            }
-
-            &.legend {
-                font-size: 14px;
-                font-weight: 100px;
-                line-height: 16px;
-                color: #808080;
-                width:auto;
-                display:table;
-                .js-animation-wrapper {
-                    padding-left:25px;
-                    display:table-cell;
-                    vertical-align:middle;
                 }
             }
 

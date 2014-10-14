@@ -876,6 +876,7 @@
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-03/picto-title@2x.png",
+                    "class": "picto-title",
                     "width": 45,
                     "height": 50,
                     "top": "8.4848%",
@@ -962,6 +963,7 @@
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-03/picto-title@2x.png",
+                    "class": "picto-title",
                     "width": 45,
                     "height": 50,
                     "top": "8.4848%",
@@ -1111,6 +1113,14 @@
             },
             "spots": [
                 {
+                    "background": "img/carte-2013/slide-05/picto-title@2x.png",
+                    "class": "picto-title",
+                    "width": 62,
+                    "height": 65,
+                    "top": "6.9696%",
+                    "left": "2.9296%"
+                },
+                {
                     "background": "img/carte-2013/slide-05/btn-01@2x.png",
                     "class": "v-sprite js-active secteur-tab",
                     "width": 183,
@@ -1197,13 +1207,6 @@
                     "height": 12,
                     "top": "28.4848%",
                     "left": "29.1015%"
-                },
-                {
-                    "background": "img/carte-2013/slide-05/picto-title@2x.png",
-                    "width": 62,
-                    "height": 65,
-                    "top": "6.9696%",
-                    "left": "2.9296%"
                 },
                 {
                     "background": "img/carte-2013/slide-05/titleA@2x.png",
@@ -1429,6 +1432,7 @@
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-06/picto-title@2x.png",
+                    "class": "picto-title",
                     "width": 57,
                     "height": 45,
                     "top": "9.2424%",
@@ -1606,6 +1610,14 @@
             },
             "spots": [
                 {
+                    "background": "/img/carte-2013/slide-06/picto-title@2x.png",
+                    "class": "picto-title",
+                    "width": 57,
+                    "height": 45,
+                    "top": "9.2424%",
+                    "left": "3.125%"
+                },
+                {
                     "background": "/img/carte-2013/slide-07/bg-reporter_redacteur@2x.png",
                     "width": 290,
                     "height": 485,
@@ -1618,13 +1630,6 @@
                     "height": 125,
                     "top": "69.5454%",
                     "left": "5.2734%"
-                },
-                {
-                    "background": "/img/carte-2013/slide-06/picto-title@2x.png",
-                    "width": 57,
-                    "height": 45,
-                    "top": "9.2424%",
-                    "left": "3.125%"
                 },
                 {
                     "background": "/img/carte-2013/slide-07/_grapheA/graphe-dataA01@2x.png",
@@ -1791,6 +1796,7 @@
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-08/picto-title@2x.png",
+                    "class": "picto-title",
                     "width": 45,
                     "height": 50,
                     "top": "8.4848%",
@@ -1914,6 +1920,14 @@
                 "parallax": 0.8
             },
             "spots": [
+                {
+                    "background": "/img/carte-2013/slide-09/picto-title@2x.png",
+                    "class": "picto-title",
+                    "width": 60,
+                    "height": 41,
+                    "top": "9.5454%",
+                    "left": "2.9296%"
+                },
                 {
                     "background": "/img/carte-2013/slide-09/btn-01@2x.png",
                     "width": 183,
@@ -2164,13 +2178,6 @@
                     "left": "60.6445%"
                 },
                 {
-                    "background": "/img/carte-2013/slide-09/picto-title@2x.png",
-                    "width": 60,
-                    "height": 41,
-                    "top": "9.5454%",
-                    "left": "2.9296%"
-                },
-                {
                     "background": "/img/carte-2013/slide-09/big-tooltip-secteur@2x.png",
                     "width": 700,
                     "height": 520,
@@ -2190,6 +2197,7 @@
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-10/picto-title@2x.jpg",
+                    "class": "picto-title",
                     "width": 55,
                     "height": 43,
                     "top": "8.4848%",
