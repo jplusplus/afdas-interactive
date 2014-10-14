@@ -111,14 +111,6 @@
             "sub-title": "En effectif",
             "spots": [
                 {
-                    "background": "/img/carte-2013/slide-01/graph-off@2x.png",
-                    "width": 738,
-                    "height": 380,
-                    "top": "35.303%",
-                    "left": "13.4765%",
-                    "resolve": ".tab:eq(0)"
-                },
-                {
                     "background": "img/carte-2013/slide-01/press-card-40000@2x.png",
                     "width": 84,
                     "height": 50,
@@ -165,11 +157,21 @@
                     "activable": true
                 },
                 {
+                    "background": "/img/carte-2013/slide-01/graph-off@2x.png",
+                    "width": 738,
+                    "height": 380,
+                    "top": "35.303%",
+                    "left": "13.4765%",
+                    "entrance": "fadeIn",
+                    "resolve": ".tab:eq(0)"
+                },
+                {
                     "width": 148,
                     "height": 130,
                     "top": "51.5151%",
                     "left": "14.9414%",
                     "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn",
                     "series": [
                         {
                             "x": 1975,
@@ -210,6 +212,7 @@
                     "top": "37.5757%",
                     "left": "33.3007%",
                     "resolve": ".tab:eq(0)",
+                    "entrance": "fadeIn",
                     "series": [
                         {
                             "x": 1999,
@@ -300,6 +303,7 @@
                     "height": 380,
                     "top": "35.303%",
                     "left": "13.4765%",
+                    "entrance": "fadeIn",
                     "resolve": ".tab:eq(1)"
                 },
                 {
@@ -316,6 +320,17 @@
                     "class": "fg",
                     "top": "42.2727%",
                     "left": "23.0468%",
+                    "entrance": "fadeIn stepRight",
+                    "resolve": ".tab:eq(1)"
+                },
+                {
+                    "background": "/img/carte-2013/slide-01/tooltip-pr-dem@2x.png",
+                    "width": 149,
+                    "height": 26,
+                    "class": "fg",
+                    "top": "83.7878%",
+                    "left": "20.3125%",
+                    "entrance": "fadeIn stepRight ",
                     "resolve": ".tab:eq(1)"
                 },
                 {
@@ -324,6 +339,7 @@
                     "resolve": ".tab:eq(1)",
                     "top": "37.4242%",
                     "left": "36.8164%",
+                    "entrance": "fadeIn",
                     "series": [
                         {
                             "x": 2000,
@@ -404,20 +420,12 @@
                     }
                 },
                 {
-                    "background": "/img/carte-2013/slide-01/tooltip-pr-dem@2x.png",
-                    "width": 149,
-                    "height": 26,
-                    "class": "fg",
-                    "top": "83.7878%",
-                    "left": "20.3125%",
-                    "resolve": ".tab:eq(1)"
-                },
-                {
                     "width": 485,
                     "height": 13,
                     "top": "84.8484%",
                     "left": "36.8164%",
                     "resolve": ".tab:eq(1)",
+                    "entrance": "fadeIn",
                     "series": [
                         {
                             "x": "2000",
