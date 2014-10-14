@@ -109,6 +109,9 @@
         {
             "name": "1975 à 2013 : évolution du nombre<br />de journaliste encartés",
             "sub-title": "En effectif",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "img/carte-2013/slide-01/press-card-40000@2x.png",
@@ -515,6 +518,9 @@
         },
         {
             "name": "Portrait-robot du journaliste<br />en 2000 et 2013",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-02/btn-01@2x.png",
@@ -864,6 +870,9 @@
         {
             "name": "Âge : un vieillissement<br />de la profession",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-03/picto-title@2x.png",
@@ -947,6 +956,9 @@
         {
             "name": "Âge : des différences importantes<br />entre secteurs et types de contrat",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-03/picto-title@2x.png",
@@ -1094,6 +1106,9 @@
         {
             "name": "Secteurs : une presse écrite<br />qui reste dominante",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "img/carte-2013/slide-05/btn-01@2x.png",
@@ -1408,6 +1423,9 @@
             "name": "Sexe : une féminisation<br />qui se confirme",
             "_picture": "/img/slides-afdas-DEF-42.jpg",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-06/picto-title@2x.png",
@@ -1583,6 +1601,9 @@
         {
             "name": "Postes de responsabilité : plus de femmes,<br />des inégalités salariales persistantes",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-07/bg-reporter_redacteur@2x.png",
@@ -1764,6 +1785,9 @@
         {
             "name": "Contrats : les impacts<br />de la crise du secteur",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-08/picto-title@2x.png",
@@ -1886,6 +1910,9 @@
         {
             "name": "Revenus : de fortes baisses<br />selon les statuts",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-09/btn-01@2x.png",
@@ -2157,6 +2184,9 @@
         {
             "name": "Cursus reconnus : pas de protection<br />à l'entrée sur le marché",
             "class": "chapter",
+            "spots-options": {
+                "parallax": 0.8
+            },
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-10/picto-title@2x.jpg",

@@ -40,6 +40,8 @@
             left:110px;
         }
 
+
+
         .step-heading {
 
             position:absolute;
@@ -47,6 +49,11 @@
             right: 300px;
             top:45px;
             z-index:@zIndexTitle;
+            .transition(top 0.8s);
+
+            .js-animating & {
+                top:-100px;
+            }
 
             h2 {
                 font-size: 32px;
