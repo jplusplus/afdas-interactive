@@ -1086,7 +1086,7 @@
                     "top": "53.3333%",
                     "left": "6.0546%",
                     "resolve": ".tooltip-toggler:eq(0)",
-                    "entrance": "fadeIn stepUp"
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-04/big-tooltip-dataA02@2x.png",
@@ -2103,8 +2103,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn",
-                    "queue": 600
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataA03@2x.png",
@@ -2113,8 +2112,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn",
-                    "queue": 300
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB01@2x.png",
@@ -2132,8 +2130,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn",
-                    "queue": 300
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataB03@2x.png",
@@ -2142,8 +2139,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn",
-                    "queue": 600
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC01@2x.png",
@@ -2162,8 +2158,7 @@
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
                     "left": "76.2695%",
-                    "entrance": "fadeIn",
-                    "queue": 600
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC03@2x.png",
@@ -2173,8 +2168,7 @@
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
                     "left": "56.5429%",
-                    "entrance": "fadeIn",
-                    "queue": 300
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A01@2x.png",
@@ -2194,8 +2188,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
                     "left": "79.7851%",
-                    "entrance": "fadeIn",
-                    "queue": 600
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A03@2x.png",
@@ -2205,8 +2198,7 @@
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
                     "left": "59.5703%",
-                    "entrance": "fadeIn",
-                    "queue": 300
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B01@2x.png",
@@ -2226,8 +2218,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
                     "left": "79.7851%",
-                    "entrance": "fadeIn",
-                    "queue": 600
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B03@2x.png",
@@ -2237,8 +2228,7 @@
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
                     "left": "59.5703%",
-                    "entrance": "fadeIn",
-                    "queue": 300
+                    "entrance": "fadeIn"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-C01@2x.png",
