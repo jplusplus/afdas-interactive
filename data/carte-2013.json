@@ -863,7 +863,6 @@
                 }
             ]
         },
-
         {
             "name": "Sexe : une féminisation<br />qui se confirme",
             "hidden-content": "Text d'analyse chapitre 6",
@@ -2139,8 +2138,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
-                    "left": "76.2695%",
-                    "entrance": "fadeIn"
+                    "left": "76.2695%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_graphes/graphe-dataC03@2x.png",
@@ -2149,8 +2147,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(2)",
                     "top": "26.2121%",
-                    "left": "56.5429%",
-                    "entrance": "fadeIn"
+                    "left": "56.5429%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A01@2x.png",
@@ -2159,8 +2156,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
-                    "left": "39.3554%",
-                    "entrance": "fadeIn"
+                    "left": "39.3554%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A02@2x.png",
@@ -2169,8 +2165,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
-                    "left": "79.7851%",
-                    "entrance": "fadeIn"
+                    "left": "79.7851%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-A03@2x.png",
@@ -2179,8 +2174,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(0)",
                     "top": "81.2121%",
-                    "left": "59.5703%",
-                    "entrance": "fadeIn"
+                    "left": "59.5703%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B01@2x.png",
@@ -2189,8 +2183,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
-                    "left": "39.3554%",
-                    "entrance": "fadeIn"
+                    "left": "39.3554%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B02@2x.png",
@@ -2199,8 +2192,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
-                    "left": "79.7851%",
-                    "entrance": "fadeIn"
+                    "left": "79.7851%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-B03@2x.png",
@@ -2209,8 +2201,7 @@
                     "entrance": "fadeIn",
                     "resolve": ".rev-btn:eq(1)",
                     "top": "81.2121%",
-                    "left": "59.5703%",
-                    "entrance": "fadeIn"
+                    "left": "59.5703%"
                 },
                 {
                     "background": "/img/carte-2013/slide-09/_billets/billet-C01@2x.png",
@@ -2307,6 +2298,14 @@
                     "entrance": "fadeIn stepLeft"
                 },
                 {
+                    "background": "/img/carte-2013/slide-10/dataA.png",
+                    "width": 46,
+                    "height": 189,
+                    "entrance": "fadeIn stepLeft",
+                    "top": "28.1818%",
+                    "left": "42.5781%"
+                },
+                {
                     "background": "/img/carte-2013/slide-10/picto-cdd@2x.png",
                     "width": 41,
                     "height": 56,
@@ -2332,6 +2331,15 @@
                     "left": "48.0468%",
                     "entrance": "fadeIn stepLeft",
                     "queue": 300
+                },
+                {
+                    "background": "/img/carte-2013/slide-10/dataB.png",
+                    "width": 46,
+                    "height": 189,
+                    "entrance": "fadeIn stepLeft",
+                    "queue": 600,
+                    "top": "28.1818%",
+                    "left": "53.3203%"
                 },
                 {
                     "background": "/img/carte-2013/slide-10/graphe-dataB@2x.png",
