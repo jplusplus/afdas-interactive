@@ -108,6 +108,7 @@
         },
         {
             "name": "1975 à 2013 : évolution du nombre<br />de journalistes encartés",
+            "hidden-content": "Text d'analyse chapitre 1",
             "sub-title": "En effectif",
             "spots": [
                 {
@@ -515,6 +516,7 @@
         },
         {
             "name": "Portrait-robot du journaliste<br />en 2000 et 2013",
+            "hidden-content": "Text d'analyse chapitre 2",
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-02/btn-01@2x.png",
@@ -863,6 +865,7 @@
         },
         {
             "name": "Âge : un vieillissement<br />de la profession",
+            "hidden-content": "Text d'analyse chapitre 3",
             "class": "chapter",
             "spots": [
                 {
@@ -973,6 +976,7 @@
         },
         {
             "name": "Âge : des différences importantes<br />entre secteurs et types de contrat",
+            "hidden-content": "Text d'analyse chapitre 4",
             "class": "chapter",
             "spots": [
                 {
@@ -1134,6 +1138,7 @@
         },
         {
             "name": "Secteurs : une presse écrite<br />qui reste dominante",
+            "hidden-content": "Text d'analyse chapitre 5",
             "class": "chapter",
             "spots": [
                 {
@@ -1448,7 +1453,7 @@
         },
         {
             "name": "Sexe : une féminisation<br />qui se confirme",
-            "_picture": "/img/slides-afdas-DEF-42.jpg",
+            "hidden-content": "Text d'analyse chapitre 6",
             "class": "chapter",
             "spots": [
                 {
@@ -1647,6 +1652,7 @@
         },
         {
             "name": "Postes de responsabilité : plus de femmes,<br />des inégalités salariales persistantes",
+            "hidden-content": "Text d'analyse chapitre 7",
             "class": "chapter",
             "spots": [
                 {
@@ -1856,6 +1862,7 @@
         },
         {
             "name": "Contrats : les impacts<br />de la crise du secteur",
+            "hidden-content": "Text d'analyse chapitre 8",
             "class": "chapter",
             "spots": [
                 {
@@ -1984,6 +1991,7 @@
         },
         {
             "name": "Revenus : de fortes baisses<br />selon les statuts",
+            "hidden-content": "Text d'analyse chapitre 9",
             "class": "chapter",
             "spots": [
                 {
@@ -2263,6 +2271,7 @@
         },
         {
             "name": "Cursus reconnus : pas de protection<br />à l'entrée sur le marché",
+            "hidden-content": "Text d'analyse chapitre 10",
             "class": "chapter",
             "spots": [
                 {
