@@ -15,6 +15,7 @@
         width:@containerWidth;
         height:@containerHeight;
         overflow:hidden;
+        visibility: hidden;
 
 
         &.js-current {
@@ -27,6 +28,10 @@
             &.js-current, &.js-next, &.js-previous {
                 visibility: visible;
             }
+        }
+
+        &.js-current, &.js-next, &.js-previous {
+            visibility: visible;
         }
 
         .hidden-content {
