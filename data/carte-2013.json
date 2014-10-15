@@ -167,6 +167,22 @@
                     "resolve": ".tab:eq(0)"
                 },
                 {
+                    "background": "/img/carte-2013/slide-01/graph-on@2x.png",
+                    "width": 738,
+                    "height": 380,
+                    "top": "35.303%",
+                    "left": "13.4765%",
+                    "entrance": "fadeIn",
+                    "resolve": ".tab:eq(1)"
+                },
+                {
+                    "background": "img/carte-2013/slide-01/focus@2x.png",
+                    "width": 273,
+                    "height": 128,
+                    "top": "18.0303%",
+                    "left": "59.6679%"
+                },
+                {
                     "width": 148,
                     "height": 130,
                     "top": "51.5151%",
@@ -297,15 +313,6 @@
                         "background": "/img/carte-2013/slide-01/dots-chart-01@2x.png",
                         "class": "h-sprite"
                     }
-                },
-                {
-                    "background": "/img/carte-2013/slide-01/graph-on@2x.png",
-                    "width": 738,
-                    "height": 380,
-                    "top": "35.303%",
-                    "left": "13.4765%",
-                    "entrance": "fadeIn",
-                    "resolve": ".tab:eq(1)"
                 },
                 {
                     "background": "/img/carte-2013/slide-01/legend-tuto@2x.png",
@@ -504,13 +511,6 @@
                         "height": 19,
                         "background": "/img/carte-2013/slide-01/dots-chart-02@2x.png"
                     }
-                },
-                {
-                    "background": "img/carte-2013/slide-01/focus@2x.png",
-                    "width": 273,
-                    "height": 128,
-                    "top": "18.0303%",
-                    "left": "59.6679%"
                 }
             ]
         },
