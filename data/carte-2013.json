@@ -2263,7 +2263,7 @@
                 {
                     "background": "/img/carte-2013/slide-09/big-tooltip-secteur@2x.png",
                     "width": 700,
-                    "height": 520,
+                    "height": 543,
                     "top": "13.9393%",
                     "left": "25.3906%",
                     "resolve": ".rev-btn:eq(3)"
