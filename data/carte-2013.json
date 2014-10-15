@@ -431,72 +431,72 @@
                         {
                             "x": "2000",
                             "y": "0.08",
-                            "tooltip": "<i>2000</i><br />2 703<br />8,2%<i>du total</i>"
+                            "tooltip": "<i>2000</i><br />2 703<br />8,2% <i>du total</i>"
                         },
                         {
                             "x": "2001",
                             "y": "0.09",
-                            "tooltip": "<i>2001</i><br />3 200<br />9,2%<i>du total</i>"
+                            "tooltip": "<i>2001</i><br />3 200<br />9,2% <i>du total</i>"
                         },
                         {
                             "x": "2002",
                             "y": "0.07",
-                            "tooltip": "<i>2002</i><br />2 499<br />7,1%<i>du total</i>"
+                            "tooltip": "<i>2002</i><br />2 499<br />7,1% <i>du total</i>"
                         },
                         {
                             "x": "2003",
                             "y": "0.06",
-                            "tooltip": "<i>2003</i><br />2 232<br />6,2%<i>du total</i>"
+                            "tooltip": "<i>2003</i><br />2 232<br />6,2% <i>du total</i>"
                         },
                         {
                             "x": "2004",
                             "y": "0.06",
-                            "tooltip": "<i>2004</i><br />2 090<br />5,8%<i>du total</i>"
+                            "tooltip": "<i>2004</i><br />2 090<br />5,8% <i>du total</i>"
                         },
                         {
                             "x": "2005",
                             "y": "0.06",
-                            "tooltip": "<i>2005</i><br />2 055<br />5,6%<i>du total</i>"
+                            "tooltip": "<i>2005</i><br />2 055<br />5,6% <i>du total</i>"
                         },
                         {
                             "x": "2006",
                             "y": "0.06",
-                            "tooltip": "<i>2006</i><br />2 252<br />6,1%<i>du total</i>"
+                            "tooltip": "<i>2006</i><br />2 252<br />6,1% <i>du total</i>"
                         },
                         {
                             "x": "2007",
                             "y": "0.06",
-                            "tooltip": "<i>2007</i><br / >2 229<br />6%<i>du total</i>"
+                            "tooltip": "<i>2007</i><br / >2 229<br />6% <i>du total</i>"
                         },
                         {
                             "x": "2008",
                             "y": "0.06",
-                            "tooltip": "<i>2008</i><br />2 150<br />5,7%<i>du total</i>"
+                            "tooltip": "<i>2008</i><br />2 150<br />5,7% <i>du total</i>"
                         },
                         {
                             "x": "2009",
                             "y": "0.06",
-                            "tooltip": "<i>2009</i><br />2 107<br />5,6%<i>du total</i>"
+                            "tooltip": "<i>2009</i><br />2 107<br />5,6% <i>du total</i>"
                         },
                         {
                             "x": "2010",
                             "y": "0.05",
-                            "tooltip": "<i>2010</i><br / >1 861<br />5%<i>du total</i>"
+                            "tooltip": "<i>2010</i><br / >1 861<br />5% <i>du total</i>"
                         },
                         {
                             "x": "2011",
                             "y": "0.05",
-                            "tooltip": "<i>2011</i><br />1 951<br />5,3%<i>du total</i>"
+                            "tooltip": "<i>2011</i><br />1 951<br />5,3% <i>du total</i>"
                         },
                         {
                             "x": "2012",
                             "y": "0.06",
-                            "tooltip": "<i>2012</i><br />2 061<br />5,5%<i>du total</i>"
+                            "tooltip": "<i>2012</i><br />2 061<br />5,5% <i>du total</i>"
                         },
                         {
                             "x": "2013",
                             "y": "0.05",
-                            "tooltip": "<i>2013</i><br />1 737<br />4,7%<i>du total</i>"
+                            "tooltip": "<i>2013</i><br />1 737<br />4,7% <i>du total</i>"
                         }
                     ],
                     "series-options": {
