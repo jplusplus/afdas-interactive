@@ -26,11 +26,28 @@
 
         .js-loading &, .js-first & {
             right: 0px;
-            .translate(100%, 0)
+            .translate(100%, 0);
         }
     }
 
-    &-toggler:hover, &-analyse:hover,
+    &-home {
+        position:absolute;
+        left:0;
+        bottom:0;
+        z-index:@zIndexNav;
+        width: 100px;
+        height: 100px;
+        display: block;
+        background:url("/img/common/bt-home.png") 0 0;
+        cursor:pointer;
+        .transition(0.8s);
+
+        .js-loading &, .js-first & {
+            .translate(-100%, 0);
+        }
+    }
+
+    &-toggler:hover, &-analyse:hover, &-home:hover,
     .previous:hover, .next:hover,
     .close:hover {
         opacity:.75;
