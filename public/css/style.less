@@ -76,14 +76,22 @@ body {
         margin-top: 0 !important;
     }
 
-    .js-loading &:after {
+    &:after {
         content:"";
         position:absolute;
         top:0; bottom:0;
         left:0; right:0;
         z-index:@zIndexLoading;
-        background:white;
+        background:white url("/img/common/loader.gif") center center no-repeat;
         display:block;
+        opacity: 0;
+        pointer-events: none;
+        .transition(0.8s);
+    }
+
+    .js-loading &:after {
+        opacity: 1;
+        pointer-events: auto;
     }
 
 }
