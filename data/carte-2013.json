@@ -108,7 +108,7 @@
         },
         {
             "name": "1975 à 2013 : évolution du nombre<br />de journalistes encartés",
-            "hidden-content": "Text d'analyse chapitre 1",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>Après au moins quarante ans de croissance ininterrompue, le nombre de cartes accordées est en baisse (-0,6% par rapport à 2012). Une petite chute après celle de 2010 qui concerne surtout les premières demandes : ces dernières marquent une baisse de 16% en un an. Sur la période 2000-2013, leur nombre n’a jamais été à un niveau si bas (1 737 cartes, soit 4,7% de l’ensemble des cartes accordées). Les renouvellements se stabilisant, on assiste à une stagnation du nombre de cartes depuis 2009.<h4>Méthodologie</h4><p>L’Observatoire des métiers de la presse produit des chiffres sur la profession de journalistes, à partir des données transmises par la Commission de la carte de d’identité de journalistes professionnels (<a href='http://www.ccijp.net/'>CCIJP</a>).</p><p>Les chiffres présentés ici excluent les journalistes honoraires*  car ces personnes n’exercent plus d’activité professionnelle. Les journalistes honoraires sont néanmoins comptabilisés dans les données avant 2000.</p> <p><em>*  « Les anciens journalistes professionnels âgés 65 ans au moins, ayant exercé la profession pendant trente années au moins ou bénéficiant d'une retraite au titre de journaliste professionnel, peuvent, sur leur demande adressée à la commission de la carte d'identité professionnelle, obtenir le titre de journaliste professionnel honoraire et la délivrance d'une carte d'identité de journaliste professionnel honoraire. »</em> Article L. 761-16. du code du travail</p>",
             "sub-title": "En effectif",
             "spots": [
                 {
@@ -516,7 +516,7 @@
         },
         {
             "name": "Portrait-robot du journaliste<br />en 2000 et 2013",
-            "hidden-content": "Text d'analyse chapitre 2",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>La presse écrite reste le secteur dominant, mais sa part s’effrite régulièrement depuis 2000. Sa proportion est ainsi moins importante parmi les 1ères demandes que pour l’ensemble des journalistes. A signaler que le web n’est pas représenté parmi les différents secteurs (les données ne le permettent pas), mais les entreprises de presse écrite se sont diversifiées et incluent pour certaines des activités web.</p><p>La féminisation de la profession se poursuit : 40% des cartes en 2000, elles en représentent désormais 46%. Et pour les premières demandes, elles sont même majoritaires (53%), confirmant une tendance à l’œuvre depuis 2000. Seul bémol : ces nouvelles journalistes femmes voient leur nombre baisser de 21% en un an, alors que cette baisse est de 9% pour les premières demandes des hommes.</p><p>Aux postes de responsabilité (chef de service et rédacteur en chef), les femmes acquièrent des positions grandissantes, près de 10 points de progression en dix ans. Mais leurs revenus restent inférieurs à ceux des hommes et l’écart se creuse particulièrement parmi les rédacteurs en chef.</p><p>La population des journalistes vieillit : elle affiche, en moyenne, 43,8 ans au compteur. Les premières demandes affichant un âge stable depuis 2000 avec 30,9 ans en moyenne, c’est du côté des renouvellements que l’écart se creuse : 44,4 ans de moyenne (+2,3 ans par rapport à 2000). Mais selon les secteurs, l’âge moyen varie grandement : de 37,5 ans en production et agences de presse audiovisuelles à 44,5 ans en presse écrite.</p><p>La précarisation des journalistes se confirme avec, chez les premières demandes, une situation totalement inversée : alors que les CDI dominaient les types de contrat en 2000, c’est désormais la pige. Les femmes subissent davantage cette précarisation : elles sont plus souvent en contrat précaire que les hommes.</p><p>Les revenus fluctuent beaucoup selon les périodes. Ceux des CDI augmentent légèrement, ceux des pigistes stagnent et les CDD accusent une baisse importante de salaires. Là encore, des différences de traitement sont à observer selon les secteurs.</p><p>Les cursus reconnus (14 aujourd’hui) ne protègent pas les journalistes à l’entrée du travail. Leurs diplômés sont plus souvent en piges ou en CDD, même s’ils s’en sortent mieux en termes de revenus après quelques années.</p>",
             "spots": [
                 {
                     "background": "/img/carte-2013/slide-02/btn-01@2x.png",
@@ -866,7 +866,7 @@
 
         {
             "name": "Secteurs : la presse écrite<br />toujours en baisse ",
-            "hidden-content": "Text d'analyse chapitre 5",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>La presse écrite représente, en 2013, encore deux tiers des cartes accordées, en baisse de 6,3 points depuis 2000. Ce chiffre reste délicat à interpréter, car le secteur de la presse écrite couvre des entreprises de presse qui se sont largement diversifiées. De plus, les données remontées actuellement par la CCIJP ne nous permettent pas de distinguer les journalistes web dans cet effectif global.</p><p>En presse écrite, le trio de tête - magazines (30% des cartes), presse quotidienne régionale (25%) et presse spécialisée (18%) – représente les trois quarts des journalistes de ce secteur.</p><p>En expansion sur ces dix dernières années, les secteurs de la télévision, de la radio et de la production et agences de presse audiovisuelles se renforcent notamment chez les journalistes qui font leurs premières demandes de carte.</p><p>Coté télévision, la TV généraliste publique concentre près de la moitié des cartes du secteur, même si les chaînes thématiques privées explosent.</p><p>Côté radio, les chaînes de service public concentrent plus de 60% des cartes du secteur.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -1181,7 +1181,7 @@
         },
         {
             "name": "Sexe : une féminisation<br />qui se confirme",
-            "hidden-content": "Text d'analyse chapitre 6",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>Sur la totalité des journalistes, les femmes sont moins nombreuses que les hommes. Cependant, leur nombre ne cesse d’augmenter depuis 2000. Parmi les premières demandes, elles sont même majoritaires depuis 2001, atteignant les 53% aujourd’hui.</p><p>Les secteurs de la télévision et de la radio proposent la même répartition d’équipe : près de 60% d’hommes pour 40% de femmes. En presse écrite et en production et agences de presse audiovisuelles, la parité n’est plus très loin : 52% d’hommes pour 48% de femmes.</p><p>Mais ces données sectorielles cachent bien des disparités : en presse écrite, les titres magazine et spécialisés accueillent une majorité de femmes au contraire de la presse régionale. En télévision, seule la TV thématique publique est dans ce cas. Et aucune radio n’est proche de la parité.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -1380,7 +1380,7 @@
         },
         {
             "name": "Plus de femmes aux postes de responsabilité,<br />mais des inégalités salariales persistantes",
-            "hidden-content": "Text d'analyse chapitre 7",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>Depuis 2000, la part des femmes occupant des postes de responsabilité a incontestablement augmenté : près de 10 points de plus chez les chefs de service et rédacteurs en chef. Pour comparaison, dans le même temps, la part des femmes chez les rédacteurs reporters ne montait « que » de 5 points.</p><p>Mais à l’image de la société française, les femmes gagnent moins que les hommes aux mêmes postes : 122 euros de différence par mois pour les chefs de service, 553 euros pour les rédactrices en chef. Le phénomène est peut être accentué par l’âge, les femmes étant en moyenne plus jeunes que les hommes.</p><h4>Méthodologie</h4><h5>Revenus :</h5><ul><li>Pour les CDI et les CDD : salaires mensuels bruts.</li><li>Pour les journalistes pigistes : moyenne mensuelle de la somme totale brute des piges touchées les 12 derniers mois (pour les renouvellements) ou les 3 derniers mois (pour les premières demandes).</li><li>Les salaires 2003 sont en euros constants (ou courants), c’est-à-dire réindexés selon un coefficient communiqué par l’INSEE : les prix constants sont les prix en valeur réelle, c'est-à-dire corrigés de la variation des prix par rapport à une donnée de base ou de référence. </li></ul><p>Le salaire médian a été choisi ici plutôt que le salaire moyen car il est moins sensible aux valeurs extrêmes des salaires pour un même métier : il permet de partager la population en deux parties égales, la moitié des salariés d'une catégorie donnée percevant moins que ce niveau, l'autre moitié percevant davantage.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -1611,7 +1611,7 @@
         },
         {
             "name": "Âge : un vieillissement<br />de la profession",
-            "hidden-content": "Text d'analyse chapitre 3",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>La moyenne d’âge des journalistes en 2013 est de 43,8 ans : elle a pris 2,6 ans depuis 2000.</p><p>Aujourd’hui, c’est près de la moitié des journalistes (46%) qui a plus de 45 ans. Un quart a moins de 35 ans : une tranche d’âge dominée par les nouvelles demandes (trois quarts des journalistes de cette catégorie ont moins de 35 ans).</p><p>Les femmes sont toujours plus jeunes que les hommes : entre 1,2 et 2,8 ans de moins, selon les types de demande.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -1722,7 +1722,7 @@
         },
         {
             "name": "Âge : des différences importantes<br />entre secteurs et types de contrat",
-            "hidden-content": "Text d'analyse chapitre 4",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>La presse écrite affiche la moyenne d’âge la plus élevée : 44,5 ans de moyenne. A l’autre bout de l’échelle, production et agences de presse audiovisuelles ne sont qu’à 37,5 ans de moyenne.</p><p>Cet écart d’âge se retrouve dans les sous-secteurs, surtout celui de la télévision qui rassemble les deux extrêmes : la moyenne la plus âgée avec la TV généraliste publique (45,9 ans) et la plus jeune avec la TV thématique privée (35,3 ans). Quelque soit le secteur et sous-secteur d’activité, la moyenne d’âge des hommes est supérieure à celle des femmes.</p><p>La moyenne d’âge des journalistes en CDI et des journalistes pigistes a augmenté sur la période 2000-2013 : +3,3 ans pour les CDI, +1,8 ans pour les pigistes. Celle des journalistes en CDD baisse : -2,6 ans depuis 2000.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -1884,7 +1884,7 @@
         },
         {
             "name": "Contrats : les impacts<br />de la crise du secteur",
-            "hidden-content": "Text d'analyse chapitre 8",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>Le paysage des contrats semble stable depuis treize ans si on se réfère à la photographie générale des journalistes : la part des CDI reste proche des 75%, devant les pigistes aux alentours de 20%. Mais la situation des premières demandes témoigne des bouleversements et de la précarisation en cours. Alors qu’en 2000, plus de 60% d’entre eux étaient en CDI, ce ne sont désormais que 34%. Dans le même temps, les CDD ont explosé : +20 points entre 2000 et 2013.</p><p>Les femmes sont plus souvent journalistes pigistes ou en CDD que les hommes. Près de 70 % des journalistes femmes nouvellement encartées, sont en contrat précaire (pige ou CDD) pour 62,1% d’hommes.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -2013,7 +2013,7 @@
         },
         {
             "name": "Revenus : de fortes baisses<br />selon les statuts",
-            "hidden-content": "Text d'analyse chapitre 9",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>Les revenus sont très fluctuants selon les périodes. De manière globale, si les revenus des journalistes en CDI ont régulièrement augmenté (avec des périodes de rupture en hausse et en baisse), les revenus des journalistes pigistes n’ont quasiment pas augmenté sur la période. Ce sont les journalistes en CDD qui accusent la baisse la plus marquée.</p><p>En production et agences de presse audiovisuelles, les journalistes ont des revenus médians supérieurs à tous les autres secteurs, mais ils sont aussi les plus précaires (62% sont en CDD ou travaillent à la pige).</p><p>Si c’est en presse écrite que la proportion de journalistes en CDI est la plus élevée, c’est également dans ce secteur que les journalistes sont les moins bien payés (rappelons que ce sont également les plus âgés).</p><h4>Méthodologie</h4><h5>Revenus : </h5><ul><li>pour les CDI et les CDD = salaires mensuels bruts.</li><li>pour les journalistes pigistes = moyenne mensuelle de la somme totale brute des piges touchées les 12 derniers mois (pour les renouvellements) ou les 3 derniers mois (pour les premières demandes).</li></ul><p>Les salaires 2003 sont en euros constants (ou courants), c’est-à-dire réindexés selon un coefficient communiqué par l’INSEE : les prix constants sont les prix en valeur réelle, c'est-à-dire corrigés de la variation des prix par rapport à une donnée de base ou de référence.</p><p>Le salaire médian a été choisi ici plutôt que le salaire moyen car il est moins sensible aux valeurs extrêmes des salaires pour un même métier : il permet de partager la population en deux parties égales, la moitié des salariés d'une catégorie donnée percevant moins que ce niveau, l'autre moitié percevant davantage.</p>",
             "class": "chapter",
             "spots": [
                 {
@@ -2285,7 +2285,7 @@
         },
         {
             "name": "Cursus reconnus : pas de protection<br />à l'entrée sur le marché",
-            "hidden-content": "Text d'analyse chapitre 10",
+            "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>En 2013, 302 journalistes ayant obtenu une carte pour la première fois ont un diplôme issu d’un cursus reconnu (14 aujourd’hui). Ils représentent 17,4% des premières demandes de cartes, soit la proportion est la plus élevée depuis 2000.</p><p>Mais le fait de posséder un diplôme issu d’un cursus reconnu ne protège pas de la précarité à l’entrée sur le marché du travail : 14,6 % de ces jeunes diplômés sont en CDI contre 37,9% pour les autres premières demandes.</p><p>Quels que soient les cursus, les revenus sont équivalents, sauf pour les CDD où les cursus reconnus sont mieux rémunérés : 336 euros par mois en moyenne.</p><p>Signalons que la moyenne d’âge des journalistes issus de cursus reconnus est plus basse que parmi les autres journalistes : en CDI, ils ont 7 ans de moins en moyenne, 4 ans chez les pigistes et 2 ans parmi les CDD.</p><h4>Méthodologie</h4><p>La CPNEJ (Commission paritaire nationale pour l’emploi des journalistes) reconnaît 14 cursus de formation au journalisme. En 2001, ils étaient au nombre de 9. Le dernier cursus reconnu est l’IUT de Nice-Cannes en 2013 (pas de promotion pour l’instant). La liste des 14 cursus reconnus est disponible sur le site de la Conférence nationale des métiers du journalisme (CNMJ) : <a href='www.cnmj.fr/basedoc/ecoles-journalisme-reconnues/'>www.cnmj.fr/basedoc/ecoles-journalisme-reconnues/<a>.</p>",
             "class": "chapter",
             "spots": [
                 {
