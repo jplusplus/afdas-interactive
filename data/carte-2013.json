@@ -612,7 +612,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=6",
+                    "href": "#step=4",
                     "entrance": "fadeIn",
                     "resolve": ".category:eq(0)",
                     "class": "fg"
@@ -623,7 +623,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=3",
+                    "href": "#step=6",
                     "entrance": "fadeIn",
                     "resolve": ".category:eq(1)",
                     "class": "fg"
@@ -645,7 +645,7 @@
                     "height": 25,
                     "top": "52.7272%",
                     "left": "51.9531%",
-                    "href": "#step=5",
+                    "href": "#step=3",
                     "entrance": "fadeIn",
                     "resolve": ".category:eq(3)",
                     "class": "fg"
