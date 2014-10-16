@@ -154,7 +154,7 @@
                     "height": 37,
                     "class": "v-sprite tab",
                     "top": "22.5757%",
-                    "left": "32.9101%",
+                    "left": "32.8125%",
                     "activable": true
                 },
                 {
@@ -217,10 +217,10 @@
                         }
                     ],
                     "series-options": {
-                        "width": 19,
-                        "height": 19,
+                        "width": 30,
+                        "height": 30,
                         "background": "/img/carte-2013/slide-01/dots-chart-01@2x.png",
-                        "class": "h-sprite"
+                        "class": "dot"
                     }
                 },
                 {
@@ -308,10 +308,10 @@
                         }
                     ],
                     "series-options": {
-                        "width": 19,
-                        "height": 19,
+                        "width": 30,
+                        "height": 30,
                         "background": "/img/carte-2013/slide-01/dots-chart-01@2x.png",
-                        "class": "h-sprite"
+                        "class": "dot"
                     }
                 },
                 {
@@ -343,9 +343,9 @@
                 },
                 {
                     "width": 485,
-                    "height": 41,
+                    "height": 35,
                     "resolve": ".tab:eq(1)",
-                    "top": "37.4242%",
+                    "top": "38.0303%",
                     "left": "36.8164%",
                     "entrance": "fadeIn",
                     "series": [
@@ -421,10 +421,10 @@
                         }
                     ],
                     "series-options": {
-                        "width": 19,
-                        "height": 19,
+                        "width": 30,
+                        "height": 30,
                         "background": "/img/carte-2013/slide-01/dots-chart-03@2x.png",
-                        "class": "h-sprite"
+                        "class": "dot"
                     }
                 },
                 {
@@ -507,9 +507,10 @@
                         }
                     ],
                     "series-options": {
-                        "width": 19,
-                        "height": 19,
-                        "background": "/img/carte-2013/slide-01/dots-chart-02@2x.png"
+                        "width": 30,
+                        "height": 30,
+                        "background": "/img/carte-2013/slide-01/dots-chart-02@2x.png",
+                        "class": "dot"
                     }
                 }
             ]
@@ -863,7 +864,6 @@
                 }
             ]
         },
-
         {
             "name": "Secteurs : la presse écrite<br />toujours en baisse ",
             "hidden-content": "<h4>Ce qu’il faut retenir</h4><p>La presse écrite représente, en 2013, encore deux tiers des cartes accordées, en baisse de 6,3 points depuis 2000. Ce chiffre reste délicat à interpréter, car le secteur de la presse écrite couvre des entreprises de presse qui se sont largement diversifiées. De plus, les données remontées actuellement par la CCIJP ne nous permettent pas de distinguer les journalistes web dans cet effectif global.</p><p>En presse écrite, le trio de tête - magazines (30% des cartes), presse quotidienne régionale (25%) et presse spécialisée (18%) – représente les trois quarts des journalistes de ce secteur.</p><p>En expansion sur ces dix dernières années, les secteurs de la télévision, de la radio et de la production et agences de presse audiovisuelles se renforcent notamment chez les journalistes qui font leurs premières demandes de carte.</p><p>Coté télévision, la TV généraliste publique concentre près de la moitié des cartes du secteur, même si les chaînes thématiques privées explosent.</p><p>Côté radio, les chaînes de service public concentrent plus de 60% des cartes du secteur.</p>",

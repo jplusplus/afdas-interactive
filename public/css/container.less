@@ -185,7 +185,6 @@
                 background-color:yellow;
             }
 
-
             &.red.js-active,
             &.green.js-active,
             &.pink.js-active,
@@ -206,6 +205,13 @@
                     background-color:#e2e6e7;
                     filter: inherit;
                 }
+            }
+
+            &.dot > .js-animation-wrapper {
+                background: center center no-repeat;
+                background-size: 19px 19px;
+                image-rendering: -moz-optimizeQuality;         /* Firefox */
+                image-rendering: optimizeQuality;         /* Firefox */
             }
 
             h3, h4 {
