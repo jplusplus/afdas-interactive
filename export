@@ -1,5 +1,5 @@
 #!/bin/bash
-HOST=http://idf-interactive.herokuapp.com
+HOST=http://afdas-interactive.herokuapp.com
 INSTANCE=$1
 TMP=$INSTANCE
 BUILD=build
