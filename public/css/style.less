@@ -87,11 +87,21 @@ body {
         opacity: 0;
         pointer-events: none;
         .transition(0.8s);
+
+        @media screen and (~"min-width:0\0") {
+            .transition(0);
+            display: none;
+        }
     }
 
     .js-loading &:after {
         opacity: 1;
         pointer-events: auto;
+
+        @media screen and (~"min-width:0\0") {
+            .transition(0);
+            display: block;
+        }
     }
 
 }
