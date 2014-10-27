@@ -1,3 +1,6 @@
+# Pointer event polyfill for IE
+#= require vendor/pointer_events_polyfill.js
+
 (($, window) ->
   $ui = $uis = null
 
@@ -7,6 +10,7 @@
   init = ->
     buildUI()
     bindUI()
+    PointerEventsPolyfill.initialize({})
 
   ###*
    * Gets every jquery shortcuts
