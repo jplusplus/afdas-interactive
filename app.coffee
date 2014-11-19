@@ -38,7 +38,12 @@ app.configure ->
   require("./routes") app
 
 app.configure "development", ->
+  app.locals.pretty = yes
   app.use express.errorHandler()
+
+app.configure "production", ->
+  app.locals.pretty = yes
+
 
 http.createServer(app).listen app.get("port"), ->
   console.log "Express server listening on port " + app.get("port")
