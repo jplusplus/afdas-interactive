@@ -30,19 +30,15 @@ html
 
     #overflow(data-navigation=data.navigation || "horizontal")
         include widget/nav.jade
-        #container
-            block content
         #analyse.hidden
             .overlay.js-analyse-toggler
             .dialog
                 h3 L'analyse de l'observatoire
                 a.js-analyse-toggler.close
                     span.hide-text Fermer
-                .wrapper.js-content
-                    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae egestas metus. Praesent tempor neque quis lectus scelerisque porttitor. Integer posuere est a interdum pharetra. Praesent sagittis gravida odio, quis eleifend quam ornare aliquam. Nulla purus ex, maximus vel ligula nec, blandit dignissim dui. Vestibulum tincidunt sollicitudin magna, auctor porttitor lectus ultrices et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In quis pellentesque quam. Praesent nisl ipsum, vulputate id mollis at, malesuada sit amet ligula.
-                    p Donec metus tortor, varius ac consectetur in, elementum non eros. Nulla facilisi. Aliquam non dolor cursus, porttitor lacus et, pharetra mi. Fusce libero lectus, facilisis id ultrices a, semper in erat. Donec bibendum posuere risus, a malesuada velit tincidunt id. Curabitur magna diam, auctor quis nisl in, sodales malesuada lectus. Sed et laoreet lectus, eget feugiat lectus. Nullam sapien justo, lobortis vel ornare vel, varius vitae purus. Aliquam porttitor iaculis commodo.
-                    p Integer et suscipit lorem. Curabitur nisl augue, mattis a imperdiet non, scelerisque a augue. Nullam nec libero in arcu ultricies ullamcorper rutrum non nulla. Donec leo erat, pretium eu pellentesque vel, dignissim eget nunc. Duis rutrum, ante sagittis suscipit fringilla, eros erat viverra ipsum, ac consequat sem sem vitae risus. Ut auctor vitae ligula ut consectetur. Sed condimentum, sem non pharetra finibus, lorem purus semper leo, in malesuada enim lectus ac nibh. Duis maximus metus turpis, quis eleifend risus fringilla sed. Sed consequat felis sit amet laoreet viverra. Etiam vehicula commodo nisi, in bibendum diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    p Pellentesque a turpis non purus maximus blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor velit eget tempor tincidunt. Nunc venenatis magna quis maximus rhoncus. Mauris congue urna lectus, vitae lobortis mauris placerat ut. Aenean congue rhoncus ligula, ac rutrum dui pharetra nec. Aenean porttitor, eros id elementum mollis, purus lacus sodales velit, vitae laoreet eros lorem quis nisi. Sed gravida nulla massa, ut ullamcorper libero pharetra id. Integer suscipit, turpis in sollicitudin ultricies, eros purus posuere quam, nec ultrices felis dui nec elit. Praesent commodo mauris at ligula dictum, aliquet interdum eros iaculis. Etiam in enim nec leo varius aliquam id et ipsum. Aliquam gravida orci vel pharetra rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                #analyse-content.wrapper
+        #container
+            block content
 
     img.hidden(src="./img/carte-2013/fb.jpg")
 

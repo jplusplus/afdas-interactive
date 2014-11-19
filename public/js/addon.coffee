@@ -25,7 +25,9 @@
       nav               : $(".nav .steps")
       navToggler        : $(".js-nav-toggler")
       analyse           : $("#analyse")
+      analyseContent    : $("#analyse-content")
       analyseToggler    : $(".js-analyse-toggler")
+
     return $ui
 
   ###*
@@ -36,9 +38,9 @@
     $uis.navToggler.on 'click', -> $uis.nav.toggleClass "hidden"
     $uis.analyseToggler.on 'click', ->
       # Get analyse content from "hidden-content" attribute
-      content = $uis.steps.filter(".js-current").find(".hidden-content").html() or ""
+      content = $(".js-current .hidden-content").html() or ""
       # Update analyse content
-      $uis.analyse.find(".js-content").html(content)
+      $uis.analyseContent.html(content)
       # Display or show the popup
       $uis.analyse.toggleClass "hidden"
 
